@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Fangyu(郑昉昱)"
-  avatar           : "zhengfangyu_potrait.jpg"
-  bio              : "Cryptography and GPU"
+  name             : "Shijie Jia(贾世杰)"
+  avatar           : "iashijie_image.jpg"
+  bio              : "Information Security and Cryptography"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
-  email            :  zhengfy1028@hotmail.com
-  researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
+  googlescholar    : "https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN"
+  email            :  jiashijie@iie.ac.com
+  researchgate     :  "https://www.researchgate.net/profile/Shijie-Jia-3"
   uri              :
   bitbucket        :
   codepen          :
