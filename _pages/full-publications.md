@@ -42,7 +42,7 @@ Published Papers
 
 
 
-1. **[IEEE TDSC,CCF-A]** **Shijie Jia*, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC).(Accepted to appear) .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
+1. **[IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC).(Accepted to appear) .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
 1. **[Conference-KSEM 2021, CCF-C]** Jingyi Liu, Yanyan Zhao, Limin Liu, Shijie Jia. Exploring Sequential and Collaborative Contexts for Next Point-of-Interest Recommendation. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021): August 2021. [doi:10.1007/978-3-030-82136-4_52](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_52)
 
 [3]	Xi Fang, Limin Liu, Shijie Jia, Xinyi Zhao, Yang Zhang. P-Shake: Towards Secure Authentication and Communication between Mobile Devices. The IEEE Wireless Communications and Networking Conference (WCNC): March 2021.(IEEE WCNC 2021, CCF-C)
