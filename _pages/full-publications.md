@@ -1,6 +1,6 @@
 ---
 permalink: /full-publications/
-#title: "Full Publications"
+title: "Full Publications"
 author_profile: true
 ---
  
@@ -9,7 +9,7 @@ author_profile: true
 New Accepted Papers
 ======
 1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
-1. **[Book]** Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
+#1. **[Book]** Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
 
 Full Publications
 ======
