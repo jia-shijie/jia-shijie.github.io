@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jia-shijie.github.io/"
+title                    : "jia-shijie.github.io"
 title_separator          : "-"
 name                     : &name "Shijie Jia"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shijie Jia(贾世杰)"
   avatar           : "jiashijie_image.jpg"
-  bio              : "Information Security and Cryptography"
-  location         : #"Beijing, China"
-  employer         :
+  bio              : "Applied cryptography in storage security and cloud cecurity"
+  location         : "Beijing, China"
+  employer         : "IIE-CAS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN"
   email            :  jiashijie@iie.ac.com
