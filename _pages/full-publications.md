@@ -5,11 +5,10 @@ author_profile: true
 ---
  
 
-
 New Accepted Papers
 ======
 1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
-#1. **[Book]** Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
+1. **[Book]** Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
 
 Full Publications
 ======
@@ -39,5 +38,5 @@ Full Publications
 1. **[Conference-ASIACCS 2016，CCF-C]** **Shijie Jia**, Luning Xia, Bo Chen and Peng Liu. NFPS: Adding Undetectable Secure Deletion to Flash Translation Layer. The 11th ACM Asia Conference on Computer and Communications Security (ASIACCS 2016), Xian, China, May 30 - June 3, 2016 ,305-315. [doi:org/10.1145/2897845.2897882](https://dl.acm.org/doi/abs/10.1145/2897845.2897882) 
 1. **[Conference-AISC 2015，CCF-C]** **Shijie Jia**, Luning Xia, Zhan Wang, et al. Extracting Robust Keys from NAND Flash Physical Unclonable Functions. The 18th Information Security Conference (ISC 2015):2015,437-454. [doi:org/10.1007/978-3-319-23318-5_24](https://link.springer.com/chapter/10.1007/978-3-319-23318-5_24) 
 1. **[Conference-ICICS 2015,CCF-C]** Yafei Ji, Luning Xia, Jingqiang Lin, Jian Zhou, Guozhu Zhang, **Shijie Jia**. Chameleon: A Lightweight Method for Thwarting Relay Attacks in Near Field Communication.Information and Communications Security (ICICS 2015). 2015: 346-355. [doi:org/10.1007/978-3-319-29814-6_29](https://link.springer.com/chapter/10.1007/978-3-319-29814-6_29) 
-1. **[Journal-中国科学院大学学报]** **Shijie Jia**, Luning Xia and Nan Wen. Signature Private Key Generation Method Based on the Physical Characteristics of Nand Flash and its Application [J]. Journal of University of Chinese Academy of Sciences: 2015, 32(5), 695-700. 贾世杰, 夏鲁宁, 闻楠. 基于Nand Flash物理特性的签名私钥产生方法及其应用[J]. 中国科学院大学学报, 2015, 32(5): 695-700. [10.7523/j.issn.2095-6134.2015.05.017](http://journal.ucas.ac.cn/CN/10.7523/j.issn.2095-6134.2015.05.017) 
+1. **[Journal-中国科学院大学学报]** **Shijie Jia**, Luning Xia and Nan Wen. Signature Private Key Generation Method Based on the Physical Characteristics of Nand Flash and its Application [J]. Journal of University of Chinese Academy of Sciences: 2015, 32(5), 695-700. 贾世杰, 夏鲁宁, 闻楠. 基于Nand Flash物理特性的签名私钥产生方法及其应用[J]. 中国科学院大学学报, 2015, 32(5): 695-700. [doi:10.7523/j.issn.2095-6134.2015.05.017](http://journal.ucas.ac.cn/CN/10.7523/j.issn.2095-6134.2015.05.017) 
 1. **[Conference-ICEIEC 2015，EI]** Xiaolei Sun, Luning Xia, **Shijie Jia**. Enhancing location privacy for electric vehicles by obfuscating the linkages of charging events. The 5th International Conference on Electronics Information and Emergency Communication (ICEIEC 2015),2015: 155-158. [doi:10.1109/ICEIEC.2015.7284509](https://ieeexplore.ieee.org/abstract/document/7284509) 
