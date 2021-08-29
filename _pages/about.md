@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am an Assoicate Professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). 
+I am an Assoicate Professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2017. 
 
-I received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation.
+My research interests lie in the general area of applied cryptography and security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation.
 
 
 
