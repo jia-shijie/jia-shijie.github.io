@@ -17,9 +17,9 @@ My research interests lie in the general area of applied cryptography and securi
 
 Education
 ======
-1. September 2012.09-July 2017  Ph.D., University of Chinese Acadamy of Sciences (UCAS), Information Security.
-1. October 2016.10-June 2017  Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
-1. September 2008-July 2012  B.E., QingDao Univerity of Science & Technology, Information Engineering. 
+1. September 2012.09-July 2017, Ph.D., University of Chinese Acadamy of Sciences (UCAS), Information Security.
+1. October 2016.10-June 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
+1. September 2008-July 2012, B.E., QingDao Univerity of Science & Technology, Information Engineering. 
 
 Research &Teaching Experience
 ======
