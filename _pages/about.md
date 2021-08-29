@@ -19,7 +19,7 @@ Education
 ======
 1. September 2012.09-July 2017, Ph.D., [University of Chinese Acadamy of Sciences (UCAS)](https://www.ucas.ac.cn/), Information Security.
 1. October 2016.10-June 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
-1. September 2008-July 2012, B.E., [QingDao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
+1. September 2008-July 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
 
 Research &Teaching Experience
 ======
