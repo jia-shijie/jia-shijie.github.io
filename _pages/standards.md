@@ -4,11 +4,21 @@ title: "Standards"
 author_profile: true
 ---
 
-Published Standards
+Published National Standards
 ======
-1. GB/T 37092-2018 *"Information security technology—Security requirements for cryptographic modules"* [《信息安全技术 密码模块安全要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
-1. GB/T 39786-2021 *"Information security technology—Baseline for information system cryptography application"* [《信息安全技术 信息系统密码应用基本要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+
+Published Industry Standards
+======
+1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
+
+Published Group standards
+======
+1. T/EMCG 004.1-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 1: Key-encrypted local protection"* [《移动智能终端密码模块安全检测要求-第1部分：密钥加密本地保护密码模块检测》]
+1. T/EMCG 004.2-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 2: Key-encrypted protection on server side"* [《移动智能终端密码模块安全检测要求-第2部分：密钥加密服务端保护密码模块检测》]
+1. T/EMCG 004.3-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 3: Key protection based on multi-party computation"* [《移动智能终端密码模块安全检测要求-第3部分：密钥多端协同计算保护密码模块检测》]
+
+
 
 Published Whitepapers 
 ======
@@ -21,12 +31,12 @@ Published Whitepapers
 
 Developing Standards
 ======
-1. *"Guidance for cryptoperiod selection in information systems"* 《信息系统密钥生命周期选取指南》
+1. *"Mobile terminal cryptographic module application interface specification"* 密码行业标准-《移动终端密码模块应用接口规范》
+1. *"Research on boundary division criteria of cryptographic module"* 密码行业标准研究报告-《密码模块边界划分准则研究》
+1. *"Testing and evaluation process guide for information system cryptography application"* 密码行业标准-《信息系统密码应用测评过程指南》
+1. *"Fast online identity authentication protocol"* 密码行业标准-《在线快捷身份鉴别协议》
 1. *"Design guide for information system cryptography application"* 《信息系统密码应用设计技术指南》
 1. *"Testing and evaluation requirements for information system cryptography application"* 《信息系统密码应用测评要求》
-1. *"Testing and evaluation process guide for information system cryptography application"*  《信息系统密码应用测评过程指南》
-1. *"Design guide for software-based random number generators"* 《软件随机数发生器设计指南》
-1. *"Mobile terminal cryptographic module application interface specification"* 《移动终端密码模块应用接口规范》
 1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 《商用密码应用安全性评估机构能力要求和评估规范》 
 
 
