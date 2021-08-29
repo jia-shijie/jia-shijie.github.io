@@ -17,14 +17,14 @@ I received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 20
 
 Education
 ======
-September 2012.09-July 2017  Ph.D., University of Chinese Acadamy of Sciences (UCAS), Information Security.
-October 2016.10-June 2017  Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
-September 2008-July 2012  B.E., QingDao Univerity of Science & Technology, Information Engineering. 
+1. September 2012.09-July 2017  Ph.D., University of Chinese Acadamy of Sciences (UCAS), Information Security.
+1. October 2016.10-June 2017  Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
+1. September 2008-July 2012  B.E., QingDao Univerity of Science & Technology, Information Engineering. 
 
 Research &Teaching Experience
 ======
-Ovtober 2020-pres., Assoicate Professor, Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
-July 2017-September 2019, Assistant Professor, Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
+1. Ovtober 2020-pres., Assoicate Professor, Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
+1. July 2017-September 2019, Assistant Professor, Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
 
 
 Latest Publications (\* denotes the corresponding author.)
