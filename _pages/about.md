@@ -23,11 +23,9 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-1.  Lili Gao, *Fangyu Zheng* *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, **accepted to appear**.
-1. Lipeng Wan, *Fangyu Zheng* *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
-1. Guang Fan, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021.  **accepted to appear**.
-1. Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu and Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021，**accepted to appear**.
-1. Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
+1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
+1. **[Conference-KSEM 2021, CCF-C]** Jingyi Liu, Yanyan Zhao, Limin Liu, **Shijie Jia**. Exploring Sequential and Collaborative Contexts for Next Point-of-Interest Recommendation. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021): August 2021. [doi:10.1007/978-3-030-82136-4_52](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_52)
+1. **[Conference-WCNC 2021, CCF-C]** Xi Fang, Limin Liu, **Shijie Jia**, Xinyi Zhao, Yang Zhang. P-Shake: Towards Secure Authentication and Communication between Mobile Devices. 2021 IEEE Wireless Communications and Networking Conference (WCNC 2021): March 2021. [doi:10.1109/WCNC49053.2021.9417366](https://ieeexplore.ieee.org/document/9417366)
 
 
 See [full publications](/full-publications/).
@@ -42,9 +40,9 @@ Fundings and Projects
 
 Standards
 ======
-1. GB/T 37092-2018 ["Information security technology—Security requirements for cryptographic modules"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657) 
-1. GB/T 39786-2021 ["Information security technology—Baseline for information system cryptography application"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC) 
-1. GB/T 40018-2021 ["Information security technology—Certificate request and application protocol based on multiple channels"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF) 
+1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
+1. T/EMCG 004-2021 *"Security test requirements for cryptographic modules in mobile smart terminal"* [《移动智能终端密码模块安全检测要求》]
 
 See [full standards](/standards/).
 
