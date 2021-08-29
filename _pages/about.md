@@ -11,14 +11,20 @@ redirect_from:
 
 I am an Assoicate Professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). 
 
-I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
+I received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation.
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing.
 
-My job focuses on applying cryptography in reality. Parts of my achievements include:
-* High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
-* Secure and fast software cryptographic implementations (numberous publications and implementations).
-* Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
+
+Education
+======
+September 2012.09-July 2017  Ph.D., University of Chinese Acadamy of Sciences (UCAS), Information Security.
+October 2016.10-June 2017  Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
+September 2008-July 2012  B.E., QingDao Univerity of Science & Technology, Information Engineering. 
+
+Research &Teaching Experience
+======
+Ovtober 2020-pres., Assoicate Professor, Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
+July 2017-September 2019, Assistant Professor, Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
 
 
 Latest Publications (\* denotes the corresponding author.)
