@@ -30,14 +30,6 @@ Latest Publications (\* denotes the corresponding author.)
 
 See [full publications](/full-publications/).
 
-Fundings and Projects
-======
-1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
-1.  National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.
-1.  National Key R&D Plan of China, "Architecuture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.  
-1.  National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017. 
-1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
-
 Standards
 ======
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
@@ -46,18 +38,37 @@ Standards
 
 See [full standards](/standards/).
 
+
+Books
+======
+1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, “Solid State Storage: Principle, architecture and data security ”, China Machine Press, 2017. 固态存储：原理、架构与数据安全，机械工业出版社，2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)
+
+
+Fundings and Projects
+======
+1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
+1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission", 2017-2021.
+1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 6180060685)", 2018-2021.
+1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)", 2018-2020.  
+1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project", 2019-2022. 
+
+
+
 Acadamic Services
 ======
-1. PC member: ACNS-SCI 2020/2021
-1. Journal reviewer: IEEE Transactions on Computers (TC), PeerJ Computer Science
+1. PC member: [IEEE IPCCC 2020/2021](https://ipccc.org/ipccc2021/main.php?page=2)
+1. PC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
+1. Editorial Board Members: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
+1. Editorial Board Members: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
+1. Journal reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
+1. Journal reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
 
 Co-supervised students
 ======
-1. Juanjuan Cheng (Master, graduated in 2018)
-1. Wangzhao Cheng (Ph.D., graduated in 2019)
-1. Jiankuo Dong (Ph.D., graduated in 2019)
-1. Ziyang Wang (Ph.D., graduated in 2021)
-1. Rong Wei (Ph.D. candidate)
-1. Lili Gao (Ph.D. candidate)
-1. Lipeng Wang (Ph.D. candidate)
-1. Guang Fan (Ph.D. candidate)
+1. Peiying Wang (Master, graduated in 2019)
+1. Mi Zhang (Master, graduated in 2020)
+1. Dongzheng Jia (Ph.D., graduated in 2020)
+1. Xi Fang (Master, graduated in 2021)
+1. Jiawei Wan (Master, graduated in 2021)
+1. Biao Gao (Ph.D. candidate)
+1. Jingyi Liu (Master candidate)
