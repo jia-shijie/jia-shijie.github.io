@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jia-shijie.github.io"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shijie Jia"
 description              : &description "personal description"
