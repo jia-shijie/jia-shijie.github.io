@@ -72,3 +72,8 @@ Co-supervised students
 1. Jiawei Wan (Master, graduated in 2021)
 1. Biao Gao (Ph.D. candidate)
 1. Jingyi Liu (Master candidate)
+
+Honors &Awards 
+======
+1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
+1.  Distinguished Paper Award, ACSAC, 2017
