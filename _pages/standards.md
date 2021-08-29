@@ -12,7 +12,7 @@ Published Industry Standards
 ======
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
 
-Published Group standards
+Published Group Standards
 ======
 1. T/EMCG 004.1-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 1: Key-encrypted local protection"* [《移动智能终端密码模块安全检测要求-第1部分：密钥加密本地保护密码模块检测》]
 1. T/EMCG 004.2-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 2: Key-encrypted protection on server side"* [《移动智能终端密码模块安全检测要求-第2部分：密钥加密服务端保护密码模块检测》]
