@@ -45,6 +45,14 @@ Standards
 See [full standards](/standards/).
 
 
+
+Patents
+======
+1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+
+See [full patents](/patents/).
+
+
 Books
 ======
 1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, “Solid State Storage: Principle, architecture and data security ”, China Machine Press, 2017. 固态存储：原理、架构与数据安全，机械工业出版社，2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)
