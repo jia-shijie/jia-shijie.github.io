@@ -14,7 +14,6 @@ I am an Assoicate Professor in the Institute of Information Engineering, Chinese
 My research interests lie in the general area of applied cryptography and security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation.
 
 
-
 Education
 ======
 1. September 2012-July 2017, Ph.D., [University of Chinese Acadamy of Sciences (UCAS)](https://www.ucas.ac.cn/), Information Security.
@@ -85,6 +84,7 @@ Co-supervised students
 1. Xi Fang (Master, graduated in 2021)
 1. Jiawei Wan (Master, graduated in 2021)
 1. Biao Gao (Ph.D. candidate)
+1. Yang Zhang (Ph.D. candidate)
 1. Jingyi Liu (Master candidate)
 
 Honors &Awards 
