@@ -86,6 +86,7 @@ Co-supervised students
 1. Biao Gao (Ph.D. candidate)
 1. Yang Zhang (Ph.D. candidate)
 1. Jingyi Liu (Master candidate)
+1. Wenqing Li (Master candidate)
 
 Honors &Awards 
 ======
