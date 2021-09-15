@@ -47,7 +47,7 @@ See [full standards](/standards/).
 
 Patents
 ======
-1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+1. 专利号：ZL201310652031.0； 授权公告日：2017年1月11日；发明人排序:6/13.[一种具有环境控制的USB加密存储系统及方法](https://www.cnipa.gov.cn/col/col1510/index.html)
 
 See [full patents](/patents/).
 
