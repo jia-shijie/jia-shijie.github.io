@@ -14,6 +14,7 @@ Authorized Patents（已授权专利）
 1. 专利号：ZL201711144794.9； 授权公告日：2021年XX月XX日；发明人排序:1/7.[一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)
 1. 专利号：ZL201911014984.8； 授权公告日：2021年XX月XX日；发明人排序:3/11.[一种弱网络连接区域的IoT-based云主机物理位置验证方法](https://www.cnipa.gov.cn/col/col1510/index.html)
 
+
 Pending Patents （处于审查状态的专利）
 ======
 1. 专利号：ZL201711144811.9； 申请日：2017年11月17日；发明人排序:1/7.[一种恶意软件检测平台快速恢复方法及系统](https://www.cnipa.gov.cn/col/col1510/index.html)
