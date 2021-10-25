@@ -4,10 +4,14 @@ title: "Teaching"
 author_profile: true
 ---
 
-Authorized Patents
+信息安全工程导论
 ======
-1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+1. 2017-2018 秋季学期 
+1. 2018-2019 春季学期 
+1. 2019-2020 春季学期 
+1. 2020-2021 [春季学期](http://124.16.77.19/sc/coursePlan/teacherHuizhi/4adbd284e6306c89e20a83aeb6077598) 
 
 
-Pending Patents 
+可信计算
 ======
+1. 2020-2021 [春季学期](http://124.16.77.19/sc/coursePlan/teacherHuizhi/0bd64dc67ae27badfa69abe4f8a5d056) 
