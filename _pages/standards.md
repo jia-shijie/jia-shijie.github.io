@@ -11,6 +11,9 @@ Published National Standards
 Published Industry Standards
 ======
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
+1. GM/T 0113-2021 *"Fast online identity authentication protocol"* [《在线快捷身份鉴别协议》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
+1. GM/T 0116-2021 *"Testing and evaluation process guide for information system cryptography application"* [《信息系统密码应用测评过程指南》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
+
 
 Published Group Standards
 ======
@@ -33,8 +36,6 @@ Developing Standards
 ======
 1. *"Mobile terminal cryptographic module application interface specification"* 密码行业标准-《移动终端密码模块应用接口规范》
 1. *"Research on boundary division criteria of cryptographic module"* 密码行业标准研究报告-《密码模块边界划分准则研究》
-1. *"Testing and evaluation process guide for information system cryptography application"* 密码行业标准-《信息系统密码应用测评过程指南》
-1. *"Fast online identity authentication protocol"* 密码行业标准-《在线快捷身份鉴别协议》
 1. *"Design guide for information system cryptography application"* 《信息系统密码应用设计技术指南》
 1. *"Testing and evaluation requirements for information system cryptography application"* 《信息系统密码应用测评要求》
 1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 《商用密码应用安全性评估机构能力要求和评估规范》 
