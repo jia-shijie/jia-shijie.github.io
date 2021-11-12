@@ -31,7 +31,6 @@ Latest Publications (\* denotes the corresponding author.)
 1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
 1. **[Journal-信息安全学报，IIE-B]** WenFei Qian, Pingjian Wang, **Shijie Jia**, Qionglu Zhang, Tianyu Chen  and Yingjiao Niu. An identity authentication scheme for high concurrency scenarios based on SM2 collaborative signature algorithm. Journal of Cyber Security:2021. 钱文飞，王平建，贾世杰，张琼露，陈天宇，牛莹姣：一种适用于高并发场景的基于SM2协作签名算法身份鉴别方案.信息安全学报(2021). **(Accepted to appear)** 
 
-
 See [full publications](/full-publications/).
 
 Standards
