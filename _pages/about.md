@@ -29,8 +29,7 @@ Research &Teaching Experience
 Latest Publications (\* denotes the corresponding author.)
 ======
 1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
-1. **[Conference-KSEM 2021, CCF-C]** Jingyi Liu, Yanyan Zhao, Limin Liu, **Shijie Jia**. Exploring Sequential and Collaborative Contexts for Next Point-of-Interest Recommendation. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021): August 2021. [doi:10.1007/978-3-030-82136-4_52](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_52)
-1. **[Conference-WCNC 2021, CCF-C]** Xi Fang, Limin Liu, **Shijie Jia**, Xinyi Zhao, Yang Zhang. P-Shake: Towards Secure Authentication and Communication between Mobile Devices. 2021 IEEE Wireless Communications and Networking Conference (WCNC 2021): March 2021. [doi:10.1109/WCNC49053.2021.9417366](https://ieeexplore.ieee.org/document/9417366)
+1. **[Journal-信息安全学报，IIE-B]** WenFei Qian, Pingjian Wang, **Shijie Jia**, Qionglu Zhang, Tianyu Chen  and Yingjiao Niu. An identity authentication scheme for high concurrency scenarios based on SM2 collaborative signature algorithm. Journal of Cyber Security:2021. 钱文飞，王平建，贾世杰，张琼露，陈天宇，牛莹姣：一种适用于高并发场景的基于SM2协作签名算法身份鉴别方案.信息安全学报(2021). **(Accepted to appear)** 
 
 
 See [full publications](/full-publications/).
