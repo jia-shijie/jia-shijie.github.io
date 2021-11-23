@@ -67,11 +67,11 @@ Fundings and Projects
 
 Acadamic Services
 ======
-1. PC Member: [IEEE IPCCC 2020/2021](https://ipccc.org/ipccc2021/main.php?page=2)
-1. PC Member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
+1. PC member: [IEEE IPCCC 2020/2021](https://ipccc.org/ipccc2021/main.php?page=2)
+1. PC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. PC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
-1. Editorial Board Member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
-1. Editorial Board Member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
+1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
+1. Editorial Board member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
 1. Journal reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
 1. Journal reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
 
