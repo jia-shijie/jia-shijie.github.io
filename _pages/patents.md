@@ -11,7 +11,7 @@ Authorized Patents（已授权专利）
 1. 专利号：ZL201510061163.5； 授权公告日：2017年11月21日；发明人排序:4/5.[近场通信中点对点通信模式下防范中继攻击的轻量级方法](https://www.cnipa.gov.cn/col/col1510/index.html)
 1. 专利号：ZL201410814839.9； 授权公告日：2018年3月23日；发明人排序:3/5.[一种外设存储介质的口令鉴别方法](https://www.cnipa.gov.cn/col/col1510/index.html)
 1. 专利号：ZL201610370911.2； 授权公告日：2019年2月19日；发明人排序:3/7.[基于Nand Flash闪存的安全存储方法及系统](https://www.cnipa.gov.cn/col/col1510/index.html)
-1. 专利号：ZL201711144794.9； 授权公告日：2021年XX月XX日；发明人排序:1/7.[一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)
+1. 专利号：ZL201711144794.9； 授权公告日：2021年11月30日；发明人排序:1/7.[一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)
 1. 专利号：ZL201911014984.8； 授权公告日：2021年XX月XX日；发明人排序:3/11.[一种弱网络连接区域的IoT-based云主机物理位置验证方法](https://www.cnipa.gov.cn/col/col1510/index.html)
 1. 专利号：ZL201711144811.9； 授权公告日：2021年XX月XX日；发明人排序:1/7.[一种恶意软件检测平台快速恢复方法及系统](https://www.cnipa.gov.cn/col/col1510/index.html)
 
