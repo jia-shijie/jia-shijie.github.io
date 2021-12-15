@@ -5,12 +5,6 @@ author_profile: true
 ---
 \* denotes the corresponding author. 
 
-New Accepted Papers
-======
-1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
-1. **[Journal-信息安全学报，IIE-B]** WenFei Qian, Pingjian Wang, **Shijie Jia**, Qionglu Zhang, Tianyu Chen  and Yingjiao Niu. An identity authentication scheme for high concurrency scenarios based on SM2 collaborative signature algorithm. Journal of Cyber Security:2021. 钱文飞，王平建，贾世杰，张琼露，陈天宇，牛莹姣：一种适用于高并发场景的基于SM2协作签名算法身份鉴别方案.信息安全学报(2021). **(Accepted to appear)** 
-1. **[Conference-WCNC 2022, CCF-C]** Li Song, Qiaoxiao Wang, Jingqiang Lin, **Shijie Jia**, Yingjiu Li, Yikai Chen. Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme. 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022): April 2022. **(Accepted to appear)** 
-
 Full Publications
 ======
 1. **[Conference-WCNC 2022, CCF-C]** Li Song, Qiaoxiao Wang, Jingqiang Lin, **Shijie Jia**, Yingjiu Li, Yikai Chen. Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme. 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022): April 2022. **(Accepted to appear)** 
