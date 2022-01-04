@@ -50,6 +50,12 @@ Patents
 
 See [full patents](/patents/).
 
+Software Copyrights
+======
+1. 登记号：2021SR0060204； 开发完成日期：2020年10月1日；著作权人：中科院信工所；原始取得，全部权利；发明人排序:5/11.[云数据机密性验证系统V1.0]()
+
+See [full software copyrights](/Softwarecopyright/).
+
 
 Books
 ======
