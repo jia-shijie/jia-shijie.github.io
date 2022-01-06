@@ -22,8 +22,8 @@ Education
 
 Research &Teaching Experience
 ======
-1. October 2020-pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
-1. July 2017-September 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
+1. November 2020-pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
+1. July 2017-October 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
 
 
 Latest Publications (\* denotes the corresponding author.)
@@ -42,11 +42,9 @@ Standards
 
 See [full standards](/standards/).
 
-
-
 Patents
 ======
-1. 专利号：ZL201310652031.0； 授权公告日：2017年1月11日；发明人排序:6/13.[一种具有环境控制的USB加密存储系统及方法](https://www.cnipa.gov.cn/col/col1510/index.html)
+1. 专利号：ZL201711144794.9； 授权公告日：2021年11月30日；发明人排序:1/7.[一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)
 
 See [full patents](/patents/).
 
@@ -74,7 +72,7 @@ Fundings and Projects
 
 Acadamic Services
 ======
-1. PC member: [IEEE IPCCC 2020/2021](https://ipccc.org/ipccc2021/main.php?page=2)
+1. PC member: [IEEE IPCCC 2020-2022](https://www.ipccc.org/ipccc2022/main.php?page=2)
 1. PC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. PC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
