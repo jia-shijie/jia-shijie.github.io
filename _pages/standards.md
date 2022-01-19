@@ -25,12 +25,11 @@ Published Group Standards
 
 Published Whitepapers 
 ======
-1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
-1. *“Testing and evaluation requirements for information system cryptography application”* [信息系统密码应用测评要求》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/d2f1665e78bb4c658ca06bfaaa16eae1.pdf)
-1. *“Testing and evaluation process guide for information system cryptography application”* [信息系统密码应用测评过程指南》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/f84f69611d764ab8be17ea1be3332b5b.pdf)
-1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/b3efec60b86b47788c2eee258fd904eb.pdf)
-1. *"High-risk determination guide for information system cryptography application"* [《信息系统密码应用高风险判定指引》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/c45eb79325bd44e2a768c90527261d30.pdf)
-1. *"Report template of commercial cryptography application security evaluation (2020 version)"* [《商用密码应用安全性评估报告模板（2020版）》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/7ff1dcf8091c4f1d88b9353874ab4911.docx)
+1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
+1. *"High-risk determination guide for information system cryptography application"* [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
+1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
+1. *"Report template of commercial cryptography application security evaluation (2020 version)"* [《商用密码应用安全性评估报告模板（2021版）》](https://www.cacrnet.org.cn/site/content/1117.html)
+
 
 Developing Standards
 ======
