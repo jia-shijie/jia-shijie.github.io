@@ -28,7 +28,9 @@ Published Whitepapers
 1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
 1. *"High-risk determination guide for information system cryptography application"* [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
 1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
-1. *"Report template of commercial cryptography application security evaluation (2020 version)"* [《商用密码应用安全性评估报告模板（2021版）》](https://www.cacrnet.org.cn/site/content/1117.html)
+1. *"Report template of commercial cryptography application security evaluation (2021 version)"* [《商用密码应用安全性评估报告模板（2021版）》](https://www.cacrnet.org.cn/site/content/1117.html)
+1. *"FAQ of commercial cryptography application security evaluation"* [《商用密码应用安全性评估FAQ》（常见问题解答）2021年12月》](https://www.cacrnet.org.cn/site/content/1117.html)
+
 
 
 Developing Standards
