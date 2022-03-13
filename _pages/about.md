@@ -28,7 +28,7 @@ Research &Teaching Experience
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-1. **[[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022). **(Accepted to appear)** 
+1. **[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022). **(Accepted to appear)** 
 1. **[Conference-IEEE ICC 2022, CCF-C]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, **Shijie Jia**, Fangyu Zheng. An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. **(Accepted to appear)** 
 1. **[Conference-IEEE WCNC 2022, CCF-C]** Li Song, Qiaoxiao Wang, Jingqiang Lin, **Shijie Jia**, Yingjiu Li, Yikai Chen. Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme. 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022): April 2022. **(Accepted to appear)** 
 1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). **(Accepted to appear)** .[doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
