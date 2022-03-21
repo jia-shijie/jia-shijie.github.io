@@ -9,9 +9,11 @@ author_profile: true
 1. 2017-2018 秋季学期 
 1. 2018-2019 春季学期 
 1. 2019-2020 春季学期 
-1. 2020-2021 [春季学期](http://124.16.77.19/sc/coursePlan/teacherHuizhi/4adbd284e6306c89e20a83aeb6077598) 
+1. 2020-2021 春季学期  
+1. 2021-2022 [春季学期](https://scs.ucas.ac.cn/index.php/zh-cn/jyjx/jwgl/fwzn/943-2021-2022) 
 
 
 可信计算
 ======
-1. 2020-2021 [春季学期](http://124.16.77.19/sc/coursePlan/teacherHuizhi/0bd64dc67ae27badfa69abe4f8a5d056) 
+1. 2020-2021 春季学期  
+1. 2021-2022 [春季学期](https://scs.ucas.ac.cn/index.php/zh-cn/jyjx/jwgl/fwzn/943-2021-2022) 
