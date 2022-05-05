@@ -7,7 +7,7 @@ author_profile: true
 
 Full Publications
 ======
-1. **[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022). **(Accepted to appear)** 
+1. **[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022). [doi:10.1155/2022/7868502](https://doi.org/10.1155/2022/7868502) 
 1. **[Conference-IEEE ICC 2022, CCF-C]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, **Shijie Jia**, Fangyu Zheng. An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. **(Accepted to appear)** 
 1. **[Conference-IEEE WCNC 2022, CCF-C]** Li Song, Qiaoxiao Wang, Jingqiang Lin, **Shijie Jia**, Yingjiu Li, Yikai Chen. Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme. 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022): April 2022. **(Accepted to appear)** 
 1. **[Journal-信息安全学报,CCF-B]** WenFei Qian, Pingjian Wang, **Shijie Jia**, Qionglu Zhang, Tianyu Chen  and Yingjiao Niu. An identity authentication scheme for high concurrency scenarios based on SM2 collaborative signature algorithm. Journal of Cyber Security:2021. 钱文飞，王平建，贾世杰，张琼露，陈天宇，牛莹姣：一种适用于高并发场景的基于SM2协作签名算法身份鉴别方案.信息安全学报(2021). **(Accepted to appear)** 
