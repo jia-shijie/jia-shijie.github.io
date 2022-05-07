@@ -35,10 +35,8 @@ Published Whitepapers (已发布白皮书/指导文件)
 
 Developing Standards(在研国家/行业标准)
 ======
-1. *"Mobile terminal cryptographic module application interface specification"* 密码行业标准-《移动终端密码模块应用接口规范》
-1. *"Research on boundary division criteria of cryptographic module"* 密码行业标准研究报告-《密码模块边界划分准则研究》
-1. *"Design guide for information system cryptography application"* 《信息系统密码应用设计技术指南》
-1. *"Testing and evaluation requirements for information system cryptography application"* 《信息系统密码应用测评要求》
-1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 《商用密码应用安全性评估机构能力要求和评估规范》 
-
-
+1. *"Information security technology-Technical guide of cryptography application design for information system"* 国家标准《信息安全技术 信息系统密码应用设计技术要求》
+1. *"Mobile terminal cryptographic module application interface specification"* 密码行业标准《移动终端密码模块应用接口规范》
+1. *"Implementation guide for information system cryptography application"* 密码行业标准《信息系统密码应用实施指南》
+1. *"Research on boundary division criteria of cryptographic module"* 密码行业研究报告《密码模块边界划分准则研究》
+1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 密码行业标准 《商用密码应用安全性评估机构能力要求和评估规范》 
