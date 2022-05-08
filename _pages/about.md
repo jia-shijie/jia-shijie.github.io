@@ -88,14 +88,14 @@ Co-supervised students
 1. Dongzheng Jia (Ph.D., graduated in 2020)
 1. Xi Fang (Master, graduated in 2021)
 1. Jiawei Wan (Master, graduated in 2021)
+1. Yang Zhang (Ph.D. candidate, graduated in 2022)
+1. Jingyi Liu (Master candidate, graduated in 2022)
 1. Biao Gao (Ph.D. candidate)
-1. Yang Zhang (Ph.D. candidate)
-1. Jingyi Liu (Master candidate)
 1. Wenqing Li (Master candidate)
 
 Honors &Awards 
 ======
-1. [中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html), 2021年.
-1. 中国密码学会-优秀密评工作人员, 2019年.
-1. [ACSAC 2017会议最佳论文奖](https://www.acsac.org/archive/) ，2017年.
-1. 中国科学院信息工程研究所引进优秀青年人才, 2017年.
+1. Outstanding Youth Award of Chinese Association for Cryptologic Research (CACR),2021.[中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html)
+1. Outstanding staff of Cryptographic Testing and Evaluation, Chinese Association for Cryptologic Research (CACR),2019.[中国密码学会-优秀密评工作人员]
+1. Distinguished Paper Award of ACSAC 2017.[ACSAC 2017会议最佳论文奖](https://www.acsac.org/archive/)
+1. Imported Outstanding Young Talents of IIE-CAS, 2017.[中国科学院信息工程研究所引进优秀青年人才]
