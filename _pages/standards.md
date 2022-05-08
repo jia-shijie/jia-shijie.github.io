@@ -4,7 +4,7 @@ title: "Standards"
 author_profile: true
 ---
 
-Published National/Industry/Group Standards(已发布国家/行业/团体标准)
+Published Standards (已发布国家/行业/团体标准)
 ======
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
