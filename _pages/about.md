@@ -61,6 +61,13 @@ Books
 1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, “Solid State Storage: Principle, architecture and data security ”, China Machine Press, 2017. 固态存储：原理、架构与数据安全，机械工业出版社，2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)
 
 
+Honors &Awards 
+======
+1. Outstanding Youth Award of Chinese Association for Cryptologic Research (CACR),2021. \\[中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html)
+1. Outstanding staff of Cryptographic Testing and Evaluation, Chinese Association for Cryptologic Research (CACR),2019. \\[中国密码学会-优秀密评工作人员]()
+1. Distinguished Paper Award of 2017 Annual Computer Security Applications Conference (ACSAC 2017). \\[ACSAC 2017会议最佳论文奖](https://www.acsac.org/archive/)
+1. Imported Outstanding Young Talents of IIE-CAS, 2017. \\[中国科学院信息工程研究所引进优秀青年人才]()
+
 Fundings and Projects
 ======
 1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
@@ -92,10 +99,3 @@ Co-supervised students
 1. Jingyi Liu (Master, graduated in 2022)
 1. Biao Gao (Ph.D. candidate)
 1. Wenqing Li (Master candidate)
-
-Honors &Awards 
-======
-1. Outstanding Youth Award of Chinese Association for Cryptologic Research (CACR),2021.  [中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html)
-1. Outstanding staff of Cryptographic Testing and Evaluation, Chinese Association for Cryptologic Research (CACR),2019.  [中国密码学会-优秀密评工作人员]
-1. Distinguished Paper Award of ACSAC 2017.  [ACSAC 2017会议最佳论文奖](https://www.acsac.org/archive/)
-1. Imported Outstanding Young Talents of IIE-CAS, 2017.  [中国科学院信息工程研究所引进优秀青年人才]
