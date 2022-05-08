@@ -88,8 +88,8 @@ Co-supervised students
 1. Dongzheng Jia (Ph.D., graduated in 2020)
 1. Xi Fang (Master, graduated in 2021)
 1. Jiawei Wan (Master, graduated in 2021)
-1. Yang Zhang (Ph.D. candidate, graduated in 2022)
-1. Jingyi Liu (Master candidate, graduated in 2022)
+1. Yang Zhang (Ph.D., graduated in 2022)
+1. Jingyi Liu (Master, graduated in 2022)
 1. Biao Gao (Ph.D. candidate)
 1. Wenqing Li (Master candidate)
 
