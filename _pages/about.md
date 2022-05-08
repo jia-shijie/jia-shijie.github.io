@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome to Shijie Jia’s Pages"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
