@@ -103,5 +103,5 @@ Co-supervised students
 1. Wenqing Li (Master candidate)
 
 <body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Vjg5zwT3FrfltWn5PzLnKCs4we8KtzVBKJ2hs1hWy6Y&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bohe"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Vjg5zwT3FrfltWn5PzLnKCs4we8KtzVBKJ2hs1hWy6Y&cl=ffffff" /></a>
 </body>
