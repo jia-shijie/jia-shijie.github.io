@@ -27,7 +27,7 @@ Research &Teaching Experience
 1. July 2017-October 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
 
 
-Latest Publications (\* denotes the corresponding author.)
+Latest Publications 
 ======
 1. **[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022). [doi:10.1155/2022/7868502](https://doi.org/10.1155/2022/7868502) 
 1. **[Conference-IEEE ICC 2022, CCF-C]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, **Shijie Jia**, Fangyu Zheng. An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. **(Accepted to appear)** 
@@ -76,8 +76,6 @@ Fundings and Projects
 1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission", 2018/02-2021/01.[国家重点研发计划子课题，信息传输关键技术研究，2018/02-2021/01，主持，已结题]()
 1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)", 2018/01-2020/12.[国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，2018/01-2020/12，主持，已结题]()
 1.  Imported Outstanding Young Talents of IIE-CAS, 2018/05-2021/12. [中科院信工所引进青年人才项目，2018/05-2021/12，主持，已结题]()
-
-
 
 
 Acadamic Services
