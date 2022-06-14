@@ -7,7 +7,7 @@ author_profile: true
 
 Full Publications
 ======
-1. ChengLi Yu, Yang Zhang, **Shijie Jia** *. Research on Data Security Threats and Protection of Key Technologies inCloud Environment. Netinfo Security,2022. 于成丽，张阳，**贾世杰** *. 云环境中数据安全威胁与防护关键技术研究.信息网络安全, 2022. (CCF-C中文) **(Accepted to appear)**  
+1. ChengLi Yu, Yang Zhang, **Shijie Jia** *. Research on Data Security Threats and Protection of Key Technologies in Cloud Environment. Netinfo Security,2022. 于成丽，张阳，**贾世杰** *. 云环境中数据安全威胁与防护关键技术研究，信息网络安全, 2022. (CCF-C中文) **(Accepted to appear)**  
 
 1. Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022, CCF-C). [doi:10.1155/2022/7868502](https://doi.org/10.1155/2022/7868502) 
 1. Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, **Shijie Jia**, Fangyu Zheng. An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator. 2022 IEEE International Conference on Communications (ICC 2022, CCF-C): May 2022. **(Accepted to appear)** 
