@@ -23,7 +23,7 @@ Education
 
 Research &Teaching Experience
 ======
-1. November 2020-pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
+1. November 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
 1. July 2017-October 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
 
 
@@ -41,7 +41,6 @@ Standards
 ======
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
-1. T/EMCG 004-2021 *"Security test requirements for cryptographic modules in mobile smart terminal"* [《移动智能终端密码模块安全检测要求》]
 
 See [full standards](/standards/).
 
@@ -72,7 +71,7 @@ Honors &Awards
 
 Fundings and Projects
 ======
-1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project", 2019/06-2022/06. [工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，2019/06-2022/06，参与，在研]()
+1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project", 2019/06-2022/06. [工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，2019/06-2022/06，主持，已结题]()
 1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)", 2019/01-2021/12. [国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，2019/01-2021/12，主持，已结题]()
 1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission", 2018/02-2021/01.[国家重点研发计划子课题，信息传输关键技术研究，2018/02-2021/01，主持，已结题]()
 1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)", 2018/01-2020/12.[国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，2018/01-2020/12，主持，已结题]()
