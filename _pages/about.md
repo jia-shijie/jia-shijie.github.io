@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 
-Dr. Shijie Jia is an Assoicate Professor in the State key Laboratory of information security, Institute of Information Engineering, Chinese Acadamy of Sciences (Sklois-IIE-CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and data security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. 
+Dr. Shijie Jia is an Assoicate Professor in the State key Laboratory of information security, Institute of Information Engineering, Chinese Acadamy of Sciences (SKLOIS-IIE-CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and data security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. 
 
 
 Education
 ======
-1. Sept 2012-Jul 2017, Ph.D., [UCAS](https://www.ucas.ac.cn/), Information Security.
-1. October 2016-June 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
-1. Sept 2008-Jul 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
+1. Sep 2012-Jul 2017, Ph.D., [UCAS](https://www.ucas.ac.cn/), Information Security.
+1. Oct 2016-Jun 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
+1. Sep 2008-Jul 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
 
 Research & Teaching Experience
 ======
-1. Nov 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [Sklois](http://sklois.iie.cas.cn/).
-1. Jul 2017-Oct 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [Sklois](http://sklois.iie.cas.cn/).
+1. Nov 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [SKLOIS](http://sklois.iie.cas.cn/).
+1. Jul 2017-Oct 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [SKLOIS](http://sklois.iie.cas.cn/).
 
 
 Latest Publications 
@@ -59,14 +59,14 @@ Books
 1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, “Solid State Storage: Principle, architecture and data security ”, China Machine Press, 2017. 固态存储：原理、架构与数据安全，机械工业出版社，2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)
 
 
-Honors &Awards 
+Honors & Awards 
 ======
 1. Outstanding Youth Award of Chinese Association for Cryptologic Research (CACR),2021. [中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html)
 1. Outstanding staff of Cryptographic Testing and Evaluation, Chinese Association for Cryptologic Research (CACR),2019. [中国密码学会-优秀密评工作人员]()
 1. Distinguished Paper Award of 2017 Annual Computer Security Applications Conference (ACSAC 2017). [ACSAC 2017会议最佳论文奖](https://www.acsac.org/archive/)
 1. Imported Outstanding Young Talents of IIE-CAS, 2017. [中国科学院信息工程研究所引进优秀青年人才]()
 
-Fundings and Projects
+Fundings & Projects
 ======
 1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project", 2019/06-2022/06. [工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，2019/06-2022/06，主持，已结题]()
 1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)", 2019/01-2021/12. [国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，2019/01-2021/12，主持，已结题]()
@@ -85,7 +85,7 @@ Acadamic Services
 1. Journal reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
 1. Journal reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
 
-Co-supervised students
+Co-supervised Students
 ======
 1. Peiying Wang (Master, graduated in 2019)
 1. Mi Zhang (Master, graduated in 2020)
