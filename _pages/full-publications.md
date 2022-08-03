@@ -4,6 +4,7 @@ title: "Full Publications"
 author_profile: true
 ---
 \* denotes the corresponding author. 
+You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN) or [DBLP](https://dblp.uni-trier.de/pid/51/10138-1.html).
 
 1. ChengLi Yu, Yang Zhang, **Shijie Jia** *. Research on Data Security Threats and Protection of Key Technologies in Cloud Environment. Netinfo Security,2022. 于成丽，张阳，**贾世杰** *. 云环境中数据安全威胁与防护关键技术研究，信息网络安全, 2022. (CCF-C中文) **(Accepted to appear)**  
 1. Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX. Security and Communication Networks (SCN 2022, CCF-C). [doi:10.1155/2022/7868502](https://doi.org/10.1155/2022/7868502) 
