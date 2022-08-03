@@ -80,17 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shijie Jia(贾世杰)"
+  name             : "Dr. Shijie Jia (贾世杰)"
   avatar           : "贾世杰照片2.jpg"
   bio              : "Associate Professor @ Institute of Information Engineering, Chinese Academy of Sciences/
 University of Chinese Academy of Sciences"
-  employer         : "Applied Cryptography and Data Security"
   location         : "Beijing, China"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN"
   email            :  jiashijie@iie.ac.com
-  researchgate     :  "https://www.researchgate.net/profile/Shijie-Jia-3"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN"
+  DBLP             : "https://dblp.uni-trier.de/pid/51/10138-1.html"
+  ORCID            : "https://orcid.org/0000-0002-4262-9478"
+  researchgate     : "https://www.researchgate.net/profile/Shijie-Jia-3"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,7 +103,6 @@ University of Chinese Academy of Sciences"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

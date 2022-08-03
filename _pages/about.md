@@ -9,22 +9,19 @@ redirect_from:
 ---
 
 
-I am an Assoicate Professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2017. 
-
-
-I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. My research interests lie in the general area of applied cryptography and security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation.
+Dr. Shijie Jia is an Assoicate Professor in the State key Laboratory of information security, Institute of Information Engineering, Chinese Acadamy of Sciences (Sklois-IIE-CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and data security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. 
 
 
 Education
 ======
-1. September 2012-July 2017, Ph.D., [University of Chinese Acadamy of Sciences (UCAS)](https://www.ucas.ac.cn/), Information Security.
+1. Sept 2012-Jul 2017, Ph.D., [UCAS](https://www.ucas.ac.cn/), Information Security.
 1. October 2016-June 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
-1. September 2008-July 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
+1. Sept 2008-Jul 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
 
-Research &Teaching Experience
+Research & Teaching Experience
 ======
-1. November 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
-1. July 2017-October 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [State key Laboratory of information security](http://sklois.iie.cas.cn/).
+1. Nov 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [Sklois](http://sklois.iie.cas.cn/).
+1. Jul 2017-Oct 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [Sklois](http://sklois.iie.cas.cn/).
 
 
 Latest Publications 
@@ -80,7 +77,7 @@ Fundings and Projects
 
 Acadamic Services
 ======
-1. PC member: [IEEE IPCCC 2020-2022](https://www.ipccc.org/ipccc2022/main.php?page=2)
+1. PC member: [IEEE IPCCC 2020-Pres.](https://www.ipccc.org/ipccc2022/main.php?page=2)
 1. PC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. PC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
