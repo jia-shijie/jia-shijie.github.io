@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Dr. Shijie Jia is an Assoicate Professor in the State key Laboratory of information security, Institute of Information Engineering, Chinese Acadamy of Sciences (SKLOIS-IIE-CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and data security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. 
+I am an Assoicate Professor in the State key Laboratory of information security, Institute of Information Engineering, Chinese Acadamy of Sciences (SKLOIS-IIE-CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and data security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. 
 
 
 Education
 ======
 1. Sep 2012-Jul 2017, Ph.D., [UCAS](https://www.ucas.ac.cn/), Information Security.
-1. Oct 2016-Jun 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of the Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
+1. Oct 2016-Jun 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
 1. Sep 2008-Jul 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
 
 Research & Teaching Experience
