@@ -32,26 +32,26 @@ Latest Publications
 1. **[Conference-IEEE WCNC 2022, CCF-C]** Li Song, Qiaoxiao Wang, Jingqiang Lin, **Shijie Jia**, Yingjiu Li, Yikai Chen. Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme. 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022): April 2022. [doi:10.1109/WCNC51071.2022.9771977](https://ieeexplore.ieee.org/abstract/document/9771977)
 1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). [doi:10.1109/TDSC.2021.3100897](https://ieeexplore.ieee.org/document/9502511)
 
-See [full publications](/full-publications/).
+See [Full publications](/full-publications/).
 
 Standards
 ======
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
 
-See [full standards](/standards/).
+See [Full standards](/standards/).
 
 Patents
 ======
 1. 专利号：ZL201711144794.9； 授权公告日：2021年11月30日；发明人排序:1/7.[一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)
 
-See [full patents](/patents/).
+See [Full patents](/patents/).
 
 Software Copyrights
 ======
 1. 登记号：2021SR0060204； 开发完成日期：2020年10月1日；著作权人：中科院信工所；原始取得，全部权利；发明人排序:5/11.[云数据机密性验证系统V1.0]()
 
-See [full software copyrights](/Softwarecopyright/).
+See [Full software copyrights](/Softwarecopyright/).
 
 
 Books
@@ -68,11 +68,12 @@ Honors & Awards
 
 Fundings & Projects
 ======
-1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project", 2019/06-2022/06. [工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，2019/06-2022/06，主持]()
-1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)", 2019/01-2021/12. [国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，2019/01-2021/12，主持]()
-1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission", 2018/02-2021/01.[国家重点研发计划子课题，信息传输关键技术研究，2018/02-2021/01，主持]()
-1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)", 2018/01-2020/12.[国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，2018/01-2020/12，主持]()
-1.  Imported Outstanding Young Talents of IIE-CAS, 2018/05-2021/12. [中科院信工所引进青年人才项目，2018/05-2021/12，主持]()
+1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project". [2019/06-2022/06，工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，150万元，主持]()
+1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)". [2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，27万元，主持]()
+1.  Imported Outstanding Young Talents of IIE-CAS. [2018/05-2021/12，中科院信工所引进青年人才项目，40万元，主持]()
+1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission".[2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，167万元，主持]()
+1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".[2018/01-2020/12，国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，167.92万元，主持]()
+
 
 
 Acadamic Services
