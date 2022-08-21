@@ -26,12 +26,12 @@ Research & Teaching Experience
 
 Recent News
 ======
-- &#9728 [08/2022] Our paper "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks" is accepted by IEEE TrustCom 2022 (CCF-C). 
-1. **[Journal-信息网络安全 2022, CCF-C]** ChengLi Yu, Yang Zhang, **Shijie Jia** *. **Research on Data Security Threats and Protection of Key Technologies in Cloud Environment**. Netinfo Security,2022. 于成丽，张阳，**贾世杰** *. 云环境中数据安全威胁与防护关键技术研究，信息网络安全, 2022. (CCF-C中文) [PDF](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2022.07.007)
-1. **[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. **EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX**. Security and Communication Networks (SCN 2022). [PDF](https://doi.org/10.1155/2022/7868502) 
-1. **[Conference-IEEE ICC 2022, CCF-C]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, **Shijie Jia**, Fangyu Zheng. **An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator**. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9839285) 
-1. **[Conference-IEEE WCNC 2022, CCF-C]** Li Song, Qiaoxiao Wang, Jingqiang Lin, **Shijie Jia**, Yingjiu Li, Yikai Chen. **Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme**. 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022): April 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9771977)
-1. **[Journal-IEEE TDSC,CCF-A]** **Shijie Jia** *, Qionglu Zhang, Luning Xia, Jiwu Jing, Peng Liu. **MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer**. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). [PDF](https://ieeexplore.ieee.org/document/9502511)
+- &#9728; [08/2022] Our paper "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks" is accepted by IEEE TrustCom 2022 (CCF-C). 
+- &#9728; [06/2022] Our paper "Research on Data Security Threats and Protection of Key Technologies in Cloud Environment" is accepted by Netinfo Security (CCF-C-Chinese).
+- &#9728; [03/2022] Our paper "EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX" is accepted by Security and Communication Networks (SCN 2022, CCF-C).
+- &#9728; [01/2022] Our paper "An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator" is accepted by IEEE ICC 2022 (CCF-C). 
+- &#9728; [12/2021] Our paper "Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme" is accepted by IEEE WCNC 2022 (CCF-C). 
+- &#9728; [07/2021] Our paper "DEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer" is accepted by <font color="red">IEEE TDSC (CCF-A)</font>.
 
 See [Full publications](/full-publications/).
 
