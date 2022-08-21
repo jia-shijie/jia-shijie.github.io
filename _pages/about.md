@@ -84,7 +84,7 @@ Fundings & Projects
 1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)".   
 [2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，主持]()
 1.  Imported Outstanding Young Talents of IIE-CAS.   
-[2018/05-2021/12，中科院信工所引进青年人才项目，40万元，主持]()
+[2018/05-2021/12，中科院信工所引进青年人才项目，主持]()
 1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission".    
 [2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，主持]()
 1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".    
