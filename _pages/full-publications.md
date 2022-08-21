@@ -48,7 +48,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 贾世杰, 夏鲁宁, 闻楠. 基于Nand Flash物理特性的签名私钥产生方法及其应用[J]. 中国科学院大学学报, 2015, 32(5): 695-700.  
 1. Xiaolei Sun, Luning Xia, **Shijie Jia**. **Enhancing location privacy for electric vehicles by obfuscating the linkages of charging events**. The 5th International Conference on Electronics Information and Emergency Communication (ICEIEC 2015, EI),2015: 155-158. [PDF](https://ieeexplore.ieee.org/abstract/document/7284509) 
 
-Book/Book Chapter
+Book
 ======
 1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, **Solid State Storage: Principle, architecture and data security**, China Machine Press, 2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)  
 **固态存储：原理、架构与数据安全**，机械工业出版社，2017. 
