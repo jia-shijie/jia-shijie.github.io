@@ -3,7 +3,7 @@ permalink: /full-publications/
 title: "Full Publications"
 author_profile: true
 ---
-\* denotes the corresponding author. 
+\* denotes the corresponding author.    
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN) or [DBLP](https://dblp.uni-trier.de/pid/51/10138-1.html).
 
 
