@@ -18,7 +18,7 @@ Education
 ======
 1. Sep 2012-Jul 2017, Ph.D., [UCAS](https://www.ucas.ac.cn/), Information Security.
 1. Oct 2016-Jun 2017, Visiting Scholar, [Penn State Cyber Security Lab](https://s2.ist.psu.edu/) of Pennsylvania State University, Advisor: Dr. [Peng Liu](https://s2.ist.psu.edu/pliu/).
-1. Sep 2008-Jul 2012, B.E., [Qingdao Univerity of Science & Technology](https://www.qust.edu.cn/), Information Engineering. 
+1. Sep 2008-Jul 2012, B.E., [QUST](https://www.qust.edu.cn/), Information Engineering & Business Administration. 
 
 Research & Teaching Experience
 ======
@@ -39,43 +39,56 @@ See [Full publications](/full-publications/).
 
 Standards
 ======
-1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
-1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
+1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"*  
+[《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"*  
+[《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
 
 See [Full standards](/standards/).
 
 Patents
 ======
-1. 专利号：ZL201711144794.9； 授权公告日：2021年11月30日；发明人排序:1/7.[一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)
+1. [一种基于闪存的数据快速恢复方法与系统](https://www.cnipa.gov.cn/col/col1510/index.html)  
+专利号：ZL201711144794.9； 授权公告日：2021年11月30日；发明人排序:1/7.  
+
 
 See [Full patents](/patents/).
 
 Software Copyrights
 ======
-1. 登记号：2021SR0060204； 开发完成日期：2020年10月1日；著作权人：中科院信工所；原始取得，全部权利；发明人排序:5/11.[云数据机密性验证系统V1.0]()
+1. [云数据机密性验证系统V1.0]()  
+登记号：2021SR0060204； 开发完成日期：2020年10月1日；著作权人：中科院信工所；原始取得，全部权利；发明人排序:5/11.
 
 See [Full software copyrights](/Softwarecopyright/).
 
 
 Books
 ======
-1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, “Solid State Storage: Principle, architecture and data security ”, China Machine Press, 2017. 固态存储：原理、架构与数据安全，机械工业出版社，2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)
+1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, “Solid State Storage: Principle, architecture and data security ”, China Machine Press, 2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)  
+固态存储：原理、架构与数据安全，机械工业出版社，2017. 
 
 
 Honors & Awards 
 ======
-1. Outstanding Youth Award of Chinese Association for Cryptologic Research (CACR),2021. [中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html)
+1. Outstanding Youth Award of Chinese Association for Cryptologic Research (CACR),2021.  
+[中国密码学会优秀青年奖](https://www.cacrnet.org.cn/site/content/1100.html)
 1. Outstanding staff of Cryptographic Testing and Evaluation, Chinese Association for Cryptologic Research (CACR),2019. [中国密码学会-优秀密评工作人员]()
 1. Distinguished Paper Award of 2017 Annual Computer Security Applications Conference (ACSAC 2017). [ACSAC 2017会议最佳论文奖](https://www.acsac.org/archive/)
-1. Imported Outstanding Young Talents of IIE-CAS, 2017. [中国科学院信息工程研究所引进优秀青年人才]()
+1. Imported Outstanding Young Talents of IIE-CAS, 2017.  
+[中国科学院信息工程研究所引进优秀青年人才]()
 
 Fundings & Projects
 ======
-1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project". [2019/06-2022/06，工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，主持]()
-1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)". [2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，主持]()
-1.  Imported Outstanding Young Talents of IIE-CAS. [2018/05-2021/12，中科院信工所引进青年人才项目，40万元，主持]()
-1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission".[2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，主持]()
-1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".[2018/01-2020/12，国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，主持]()
+1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project".  
+[2019/06-2022/06，工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，主持]()
+1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)". 
+[2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，主持]()
+1.  Imported Outstanding Young Talents of IIE-CAS. 
+[2018/05-2021/12，中科院信工所引进青年人才项目，40万元，主持]()
+1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission".
+[2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，主持]()
+1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".
+[2018/01-2020/12，国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，主持]()
 
 
 
