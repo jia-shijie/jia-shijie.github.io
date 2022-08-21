@@ -24,9 +24,9 @@ Research & Teaching Experience
 1. Jul 2017-Oct 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [SKLOIS](http://sklois.iie.cas.cn/).
 
 
-Latest Publications 
+Recent News
 ======
-1. **[Conference-IEEE TrustCom 2022, CCF-C]** Li Song, Qiongxiao Wang, **Shijie Jia**, Jingqiang Lin, Linli Lu, Yanduo Fu. **You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks**. The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2022, CCF-C): October 2022. **(Accepted to appear)** 
+- &#9728 [08/2022] Our paper "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks" is accepted by IEEE TrustCom 2022 (CCF-C). 
 1. **[Journal-信息网络安全 2022, CCF-C]** ChengLi Yu, Yang Zhang, **Shijie Jia** *. **Research on Data Security Threats and Protection of Key Technologies in Cloud Environment**. Netinfo Security,2022. 于成丽，张阳，**贾世杰** *. 云环境中数据安全威胁与防护关键技术研究，信息网络安全, 2022. (CCF-C中文) [PDF](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2022.07.007)
 1. **[Journal-SCN 2022, CCF-C]** Yang Zhang, Weijing You, **Shijie Jia**, Limin Liu, Ziyi Li, Wenfei Qian. **EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX**. Security and Communication Networks (SCN 2022). [PDF](https://doi.org/10.1155/2022/7868502) 
 1. **[Conference-IEEE ICC 2022, CCF-C]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, **Shijie Jia**, Fangyu Zheng. **An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator**. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9839285) 
