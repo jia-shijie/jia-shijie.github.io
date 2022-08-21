@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am an Assoicate Professor in the State key Laboratory of information security, Institute of Information Engineering, Chinese Acadamy of Sciences (SKLOIS-IIE-CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of applied cryptography and data security, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS, IEEE TDSC, ACSAC and AsiaCCS. 
+I am an Assoicate Professor in the State key Laboratory of information security (SKLOIS), Institute of Information Engineering (IIE), Chinese Acadamy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Acadamy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="blue"> applied cryptography and data security (CCF-A)</blue>, particularly in data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues such as ACM CCS(17), IEEE TDSC(21), ACSAC(16,17) and AsiaCCS(16,19). 
+
+
 
 
 Education
@@ -20,8 +22,8 @@ Education
 
 Research & Teaching Experience
 ======
-1. Nov 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/), [SKLOIS](http://sklois.iie.cas.cn/).
-1. Jul 2017-Oct 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/), [SKLOIS](http://sklois.iie.cas.cn/).
+1. Nov 2020-Pres., Assoicate Professor, [SKLOIS](http://sklois.iie.cas.cn/) of [IIE-CAS](http://www.iie.ac.cn/).
+1. Jul 2017-Oct 2020, Assistant Professor, [SKLOIS](http://sklois.iie.cas.cn/) of [IIE-CAS](http://www.iie.ac.cn/).
 
 
 Recent News
@@ -69,11 +71,11 @@ Honors & Awards
 
 Fundings & Projects
 ======
-1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project". [2019/06-2022/06，工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，150万元，主持]()
-1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)". [2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，27万元，主持]()
+1.  China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project". [2019/06-2022/06，工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，主持]()
+1.  National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)". [2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，主持]()
 1.  Imported Outstanding Young Talents of IIE-CAS. [2018/05-2021/12，中科院信工所引进青年人才项目，40万元，主持]()
-1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission".[2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，167万元，主持]()
-1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".[2018/01-2020/12，国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，167.92万元，主持]()
+1.  National Key R&D Plan of China, "Research on Key Technologies of information transmission".[2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，主持]()
+1.  National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".[2018/01-2020/12，国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，主持]()
 
 
 
@@ -97,6 +99,7 @@ Co-supervised Students
 1. Yang Zhang (Ph.D., graduated in 2022)
 1. Jingyi Liu (Master, graduated in 2022)
 1. Biao Gao (Ph.D. candidate)
+1. Bowen Xu (Ph.D. candidate)
 1. Wenqing Li (Master candidate)
 
 
