@@ -33,7 +33,7 @@ Recent News
 - &#9728; [03/2022] Our paper "EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX" is accepted by Security and Communication Networks (SCN 2022, CCF-C).
 - &#9728; [01/2022] Our paper "An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator" is accepted by IEEE ICC 2022 (CCF-C). 
 - &#9728; [12/2021] Our paper "Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme" is accepted by IEEE WCNC 2022 (CCF-C). 
-- &#9728; [07/2021] Our paper "DEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer" is accepted by <font color="red">IEEE TDSC (CCF-A)</font>.
+- &#9728; [07/2021] Our paper "MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer" is accepted by <font color="red">IEEE TDSC (CCF-A)</font>.
 
 See [Full publications](/full-publications/).
 
