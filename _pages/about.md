@@ -50,7 +50,7 @@ Honors & Awards
 Fundings & Projects
 ======
 1. National Natural Science Foundation of China, "Research on data security protection technology based on solid-state storage characteristics (Grant No.62272457)".   
-[2023/01-2026/12，国家自然科学基金青年项目，基于固态存储特性的数据安全保护技术研究，项目批准号62272457，主持]()
+[2023/01-2026/12，国家自然科学基金面上项目，基于固态存储特性的数据安全保护技术研究，项目批准号62272457，主持]()
 1. National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)".   
 [2019/01-2021/12，国家自然科学基金青年项目，基于固态存储设备防范勒索软件攻击的技术研究，项目批准号61802395，主持]()
 1. China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project".  
