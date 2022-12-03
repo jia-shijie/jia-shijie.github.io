@@ -8,7 +8,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 
 
 
-1. **[CCF-B]** Wenqing Li, **Shijie Jia***, Limin Liu, Fangyu Zheng,  Yuan Ma, Jingqiang Lin. **CryptoGo: Automatic Detection of Go Cryptographic API Misuses**. 2022 Annual Computer Security Applications Conference (ACSAC 2022), Austin, Texas, USA, December 2022. [*(To appear)*](https://www.acsac.org/2022/program/papers/)
+1. **[CCF-B]** Wenqing Li, **Shijie Jia***, Limin Liu, Fangyu Zheng,  Yuan Ma, Jingqiang Lin. **CryptoGo: Automatic Detection of Go Cryptographic API Misuses**. 2022 Annual Computer Security Applications Conference (ACSAC 2022), Austin, Texas, USA, December 2022. [PDF](https://dl.acm.org/doi/10.1145/3564625.3567989)
 1. **[CCF-C]** Li Song, Qiongxiao Wang, **Shijie Jia***, Jingqiang Lin, Linli Lu, Yanduo Fu. **You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks**. The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2022): October 2022. **(To appear)**
 1. **[CCF-C中文]** ChengLi Yu, Yang Zhang, **Shijie Jia** *. **Research on Data Security Threats and Protection of Key Technologies in Cloud Environment**. Netinfo Security,2022. [PDF](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2022.07.007)  
 于成丽，张阳，**贾世杰** *. 云环境中数据安全威胁与防护关键技术研究，信息网络安全, 2022. 

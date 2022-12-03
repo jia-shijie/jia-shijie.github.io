@@ -28,7 +28,7 @@ Research & Teaching Experience
 
 Recent News
 ======
-- &#9728; [10/2022] Our paper "CryptoGo: Automatic Detection of Go Cryptographic API Misuses" is accepted by ACSAC 2022 (CCF-B). CryptoGo is the first cryptographic API misuse detector for Go programs.[*(To appear)*](https://www.acsac.org/2022/program/papers/) 
+- &#9728; [10/2022] Our paper "CryptoGo: Automatic Detection of Go Cryptographic API Misuses" is accepted by ACSAC 2022 (CCF-B). CryptoGo is the first cryptographic API misuse detector for Go programs.[PDF](https://dl.acm.org/doi/10.1145/3564625.3567989) 
 - &#9728; [09/2022] I received a general funding project form National Natural Science Foundation of China to support my research on data security protection technology based on solid-state storage characteristics.
 - &#9728; [08/2022] Our paper "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks" is accepted by IEEE TrustCom 2022 (CCF-C). 
 - &#9728; [06/2022] Our paper "Research on Data Security Threats and Protection of Key Technologies in Cloud Environment" is accepted by Netinfo Security (CCF-C-Chinese).
