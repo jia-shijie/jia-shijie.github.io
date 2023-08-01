@@ -80,6 +80,7 @@ Acadamic Services
 1. Journal reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
 1. Journal reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
 
+
 Co-supervised Students
 ======
 1. Peiying Wang (Master, graduated in 2019)
@@ -89,9 +90,13 @@ Co-supervised Students
 1. Jiawei Wan (Master, graduated in 2021)
 1. Yang Zhang (Ph.D., graduated in 2022)
 1. Jingyi Liu (Master, graduated in 2022)
+1. Wenqing Li (Master, graduated in 2023)
 1. Biao Gao (Ph.D. candidate)
 1. Bowen Xu (Ph.D. candidate)
-1. Wenqing Li (Master candidate)
+1. Mingyu Wang (Ph.D. candidate)
+1. Jiaqi Tian (Master candidate)
+1. Xiangxin Guo (Master candidate)
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Vjg5zwT3FrfltWn5PzLnKCs4we8KtzVBKJ2hs1hWy6Y'></script>
