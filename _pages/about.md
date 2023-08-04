@@ -72,13 +72,12 @@ Fundings & Projects
 
 Acadamic Services
 ======
-1. PC member: [IEEE IPCCC 2020-Pres.](https://www.ipccc.org/ipccc2022/main.php?page=2)
+1. PC member: [IEEE IPCCC 2020-Pres.](https://ipccc.org/)
 1. PC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. PC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
 1. Editorial Board member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
-1. Journal reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
-1. Journal reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
+1. Journal reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot), [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security), [Cyber Security](https://cybersecurity.springeropen.com/), [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml).
 
 
 Co-supervised Students
