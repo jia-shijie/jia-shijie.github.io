@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Associate Professor in the State key Laboratory of information security (SKLOIS), Institute of Information Engineering (IIE), Chinese Acadamy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="blue"> Applied Cryptography and Data Security</font>, particularly in cryptographic misuse detection, data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017.
+I am an Associate Professor in the State key Laboratory of information security (SKLOIS), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="blue"> Applied Cryptography and Data Security</font>, particularly in cryptographic misuse detection, data storage security (e.g., solid state storage and cloud storage), as well as cryptographic testing and evaluation. I have published 30+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017.
 
 
 
