@@ -9,7 +9,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 
 
 
-1. **[SCI]** Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, Jiankuo Dong, **Shijie Jia**, Li Song. T-FIM: Transparency in Federated Identity Management for Decentralized Trust and Forensics Investigation. Electronics 2023, 12(17), 3591.[PDF](https://www.mdpi.com/2079-9292/12/17/3591) 
+1. **[SCI]** Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, Jiankuo Dong, **Shijie Jia**, Li Song. **T-FIM: Transparency in Federated Identity Management for Decentralized Trust and Forensics Investigation**. Electronics 2023, 12(17), 3591.[PDF](https://www.mdpi.com/2079-9292/12/17/3591) 
 1. **[CCF-B]** Bowen Xu, **Shijie Jia***, Jingqiang Lin, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu and Li Song. **JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications**. The 28th European Symposium on Research in Computer Security (ESORICS 2023). **(Accepted To appear)**
 1. **[CCF-B]** Wenqing Li, **Shijie Jia***, Limin Liu, Fangyu Zheng, Yuan Ma, Jingqiang Lin. **CryptoGo: Automatic Detection of Go Cryptographic API Misuses**. 2022 Annual Computer Security Applications Conference (ACSAC 2022), Austin, Texas, USA, December 2022. [PDF](https://dl.acm.org/doi/10.1145/3564625.3567989)
 1. **[CCF-C]** Li Song, Qiongxiao Wang, **Shijie Jia***, Jingqiang Lin, Linli Lu, Yanduo Fu. **You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks**. The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2022): October 2022. [PDF](https://ieeexplore.ieee.org/document/10063714/authors#authors)
