@@ -23,17 +23,12 @@ Published Whitepapers (指导文件)
 1. *"High-risk determination guide for information system cryptography application"* [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
 1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
 1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
-
-
-
-
+1. *"Guidance for cryptoperiod selection in information systems"* [研究报告《信息系统密钥生命周期选取指南》]()
+1. *"Research on boundary division criteria of cryptographic module"* [研究报告《密码模块边界划分准则研究》]()
 
 
 Developing Standards(在研国家/行业标准)
 ======
-1. *"Information security technology-Technical guide of cryptography application design for information system"* 国家标准《信息安全技术 信息系统密码应用设计技术要求》
 1. *"Mobile terminal cryptographic module application interface specification"* 密码行业标准《移动终端密码模块应用接口规范》
 1. *"Implementation guide for information system cryptography application"* 密码行业标准《信息系统密码应用实施指南》
-1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 密码行业标准 《商用密码应用安全性评估机构能力要求和评估规范》 
-1. *"Guidance for cryptoperiod selection in information systems"* 密码行业研究报告《信息系统密钥生命周期选取指南》
-1. *"Research on boundary division criteria of cryptographic module"* 密码行业研究报告《密码模块边界划分准则研究》
+1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 密码行业标准 《商用密码应用安全性评估机构能力要求和评估规范》
