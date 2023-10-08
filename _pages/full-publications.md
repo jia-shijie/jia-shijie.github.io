@@ -8,6 +8,9 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 
 
 
+1. **[EI]** Biao Gao, **Shijie Jia***, Peng Yin, Xueying Zhang. **XPORAM: A Practical Multi-Client ORAM against Malicious Adversaries**. The 19th International Conference on Information Security and Cryptology (Inscrypt 2023). **(Accepted To appear)** 
+1. **[SCI]** Tianyu Chen, **Shijie Jia***, Yuan Ma, Yuan Cao, Na Lv, Wei Wang, Jing Yang and Jingqiang Lin. **A Design of High-Efficiency Coherent Sampling based TRNG with on-chip Entropy Assurance**. IEEE Transactions on Circuits and Systems I: Regular Papers. **(Accepted To appear)** 
+1. **[CCF-C]** Haoling Fan, Fangyu Zheng, Jingqiang Lin, Lingjia Meng, Mingyu Wang, Qiang Wang, **Shijie Jia**, Yuan Ma, **A Hybrid Detection Approach for Cryptographic Algorithms of Closed Source Software**, 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2023), 2023.**(Accepted To appear)** 
 1. **[EI]** Biao Gao, **Shijie Jia***, Peng Yin, Xueying Zhang. **Protection of Access Pattern**. The 7th International Conference on Computer Science and Artificial Intelligence (CSAI 2023). **(Accepted To appear)** 
 1. **[SCI]** Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, Jiankuo Dong, **Shijie Jia**, Li Song. **T-FIM: Transparency in Federated Identity Management for Decentralized Trust and Forensics Investigation**. Electronics 2023, 12(17), 3591.[PDF](https://www.mdpi.com/2079-9292/12/17/3591) 
 1. **[CCF-B]** Bowen Xu, **Shijie Jia***, Jingqiang Lin, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu and Li Song. **JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications**. The 28th European Symposium on Research in Computer Security (ESORICS 2023). **(Accepted To appear)**
