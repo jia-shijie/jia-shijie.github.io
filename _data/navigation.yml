@@ -27,5 +27,7 @@ main:
      url: /standards/
    - title: "Patents"
      url: /patents/
-    - title: "Teaching"
+   - title: "Software Copyright"
+     url: /Softwarecopyright/
+   - title: "Teaching"
      url: /teaching/     
