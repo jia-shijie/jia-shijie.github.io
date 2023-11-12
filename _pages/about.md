@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 
-I am an Associate Professor in the State key Laboratory of information security (SKLOIS), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> applied cryptography, privacy
-protection, network and system security</font>, particularly in cryptographic misuse detection, data storage security (e.g., solid state storage and cloud storage), as well as and
-information system security evaluation. I have published 40+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017.
+I am an Associate Professor in the State key Laboratory of information security (SKLOIS), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Privacy
+Protection, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Data Storage Security (e.g., solid state storage and cloud storage), as well as and Information System Security Evaluation. I have published 40+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017.
 
 
 
@@ -74,12 +73,14 @@ Fundings & Projects
 
 Acadamic Services
 ======
-1. PC member: [IEEE IPCCC 2020-Pres.](https://ipccc.org/)
-1. PC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
-1. PC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
+1. TPC member: [IEEE IPCCC 2020,2021,2022,2023](https://ipccc.org/)
+1. TPC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
+1. TPC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
+1. TPC member: [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/committees/technical-program-committee)
+1. TPC member: [ACNS Workshop on SCI 2024](https://acns-sci.github.io/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
 1. Editorial Board member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
-1. Journal reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot), [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security), [Cyber Security](https://cybersecurity.springeropen.com/), [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml).
+1. Journal reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot), [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security), [Cyber Security](https://cybersecurity.springeropen.com/), [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml), [Netinfo Security](http://netinfo-security.org/CE.htm), [High Confidence Computing](https://www2.cloud.editorialmanager.com/hccom/default2.aspx).
 
 
 Co-supervised Students
