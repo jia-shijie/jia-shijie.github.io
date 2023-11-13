@@ -17,11 +17,10 @@ Published Standards (国家/行业/团体标准)
 
 Published Whitepapers (指导文件)
 ======
+1. *"FAQ of commercial cryptography application security evaluation"* [《商用密码应用安全性评估FAQ》（第三版）2023年10月》](https://www.cacrnet.org.cn/site/content/1404.html)
 1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》2023年7月](https://www.cacrnet.org.cn/site/content/1361.html)
 1. *"Report template of commercial cryptography application security evaluation (2023 version)"* [《商用密码应用安全性评估报告模板（2023版）2023年1月》](https://www.cacrnet.org.cn/site/content/1278.html)
-1. *"FAQ of commercial cryptography application security evaluation"* [《商用密码应用安全性评估FAQ》（第二版）2022年8月》](https://www.cacrnet.org.cn/site/content/1183.html)
 1. *"High-risk determination guide for information system cryptography application"* [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
-1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
 1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
 1. *"Guidance for cryptoperiod selection in information systems"* [研究报告《信息系统密钥生命周期选取指南》]()
 1. *"Research on boundary division criteria of cryptographic module"* [研究报告《密码模块边界划分准则研究》]()
