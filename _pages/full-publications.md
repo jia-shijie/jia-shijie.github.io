@@ -6,7 +6,7 @@ author_profile: true
 \* denotes the corresponding author.    
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN) or [DBLP](https://dblp.uni-trier.de/pid/51/10138-1.html).
 
-
+1. Mingyu Wang, **Shijie Jia**, Fangyu Zheng, Yuan Ma, Jingqiang Lin, Lingjia Meng, Ziqiang Ma. **TF-Timer: Mitigating Cache Side-Channel Attacks in Cloud through a Targeted Fuzzy Timer**. The 2024 IEEE Wireless Communications and Networking Conference (WCNC 2024) . **(Accepted To appear)** 
 1. Yuan Ma, Weisong Gu, Tianyu Chen, Na Lv, Dongchi Han, **Shijie Jia**. **Enhancing Prediction Entropy Estimation of RNG for On-the-Fly Test**. The 26th Annual International Conferenceon Information Security and Cryptology (ICISC 2023). **(Accepted To appear)** 
 1. Biao Gao, **Shijie Jia***, Jiankuo Dong, Peixin Ren. **XPORAM: A Practical Multi-Client ORAM against Malicious Adversaries**. The 19th International Conference on Information Security and Cryptology (Inscrypt 2023). **(Accepted To appear)** 
 1. Tianyu Chen, **Shijie Jia***, Yuan Ma, Yuan Cao, Na Lv, Wei Wang, Jing Yang and Jingqiang Lin. **A Design of High-Efficiency Coherent Sampling based TRNG with on-chip Entropy Assurance**. IEEE Transactions on Circuits and Systems I: Regular Papers. [PDF](https://ieeexplore.ieee.org/document/10290130)  
