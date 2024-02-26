@@ -77,10 +77,18 @@ Acadamic Services
 1. TPC member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. TPC member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
 1. TPC member: [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/committees/technical-program-committee)
+1. TPC member: [IEEE Globecom 2024](https://globecom2024.ieee-globecom.org/committees/technical-program-committee)
 1. TPC member: [ACNS Workshop on SCI 2024](https://acns-sci.github.io/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
 1. Editorial Board member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
-1. Journal reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot), [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security), [Cyber Security](https://cybersecurity.springeropen.com/), [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml), [Netinfo Security](http://netinfo-security.org/CE.htm), [High Confidence Computing](https://www2.cloud.editorialmanager.com/hccom/default2.aspx).
+1. Journal reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
+1. Journal reviewer: [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot)
+1. Journal reviewer: [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860)
+1. Journal reviewer: [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security)
+1. Journal reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
+1. Journal reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
+1. Journal reviewer: [Netinfo Security](http://netinfo-security.org/CE.htm)
+1. Journal reviewer: [High Confidence Computing](https://www2.cloud.editorialmanager.com/hccom/default2.aspx)
 
 
 Co-supervised Students
@@ -93,8 +101,8 @@ Co-supervised Students
 1. Yang Zhang (Ph.D., graduated in 2022)
 1. Jingyi Liu (Master, graduated in 2022)
 1. Wenqing Li (Master, graduated in 2023)
-1. Biao Gao (Ph.D. candidate)
-1. Bowen Xu (Ph.D. candidate)
+1. Biao Gao (Ph.D., graduated in 2024)
+1. Bowen Xu (Ph.D., graduated in 2024)
 1. Mingyu Wang (Ph.D. candidate)
 1. Jiaqi Tian (Master candidate)
 1. Xiangxin Guo (Master candidate)
