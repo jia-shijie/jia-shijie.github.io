@@ -81,6 +81,7 @@ Acadamic Services
 1. TPC member: [ACNS Workshop on SCI 2024](https://acns-sci.github.io/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
 1. Editorial Board member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
+1. Journal reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 1. Journal reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
 1. Journal reviewer: [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot)
 1. Journal reviewer: [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860)
@@ -103,9 +104,10 @@ Co-supervised Students
 1. Wenqing Li (Master, graduated in 2023)
 1. Biao Gao (Ph.D., graduated in 2024)
 1. Bowen Xu (Ph.D., graduated in 2024)
-1. Mingyu Wang (Ph.D. candidate)
-1. Jiaqi Tian (Master candidate)
+1. Mingyu Wang (Ph.D., graduated in 2024)
+1. Jiaqi Tian (Master, graduated in 2024)
 1. Xiangxin Guo (Master candidate)
+1. Guanzheng Li (Master candidate)
 
 
 
