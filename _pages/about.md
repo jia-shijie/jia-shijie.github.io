@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Associate Professor in the State key Laboratory of information security (SKLOIS), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Privacy
+I am an Associate Professor in the Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Privacy
 Protection, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Data Storage Security (e.g., solid state storage and cloud storage), as well as and Information System Security Evaluation. I have published 40+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017.
 
 
@@ -22,8 +22,8 @@ Education
 
 Research & Teaching Experience
 ======
-1. Nov 2020-Pres., Assoicate Professor, [SKLOIS](http://sklois.iie.cas.cn/) of [IIE-CAS](http://www.iie.ac.cn/).
-1. Jul 2017-Oct 2020, Assistant Professor, [SKLOIS](http://sklois.iie.cas.cn/) of [IIE-CAS](http://www.iie.ac.cn/).
+1. Nov 2020-Pres., Assoicate Professor, [IIE-CAS](http://www.iie.ac.cn/).
+1. Jul 2017-Oct 2020, Assistant Professor, [IIE-CAS](http://www.iie.ac.cn/).
 
 
 Recent News
