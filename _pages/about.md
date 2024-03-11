@@ -79,6 +79,7 @@ Acadamic Services
 1. TPC member: [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/committees/technical-program-committee)
 1. TPC member: [IEEE Globecom 2024](https://globecom2024.ieee-globecom.org/committees/technical-program-committee)
 1. TPC member: [ACNS Workshop on SCI 2024](https://acns-sci.github.io/)
+1. TPC member: [21st Annual International Conference on Privacy, Security, and Trust (PST2024)](https://pstnet.ca/)
 1. Editorial Board member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
 1. Editorial Board member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
 1. Journal reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
