@@ -9,8 +9,13 @@ redirect_from:
 ---
 
 
-I am an Associate Professor in the Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Privacy
-Protection, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Data Storage Security (e.g., solid state storage and cloud storage), as well as and Information System Security Evaluation. I have published 40+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017.
+I am an Associate Professor in the Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). 
+
+I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. I won Distinguished Paper Award of ACSAC 2017.
+
+My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Privacy
+Protection, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Data Storage Security (e.g., solid state storage and cloud storage), as well as and Information System Security Evaluation. I have published 40+ papers on security venues, such as ACM CCS (17), IEEE TDSC (21), ACSAC (16,17,22), ESORICS (23) and AsiaCCS (16,19). 
+
 
 
 
@@ -73,6 +78,10 @@ Fundings & Projects
 
 Acadamic Services
 ======
+1. Youth Editorial Board Members: [Cybersecurity](https://cybersecurity.springeropen.com/about/editorial-board)
+1. Youth Editorial Board Members: [Journal of Cyber Security](http://jcs.iie.ac.cn/xxaqxb/ch/first_menu.aspx?parent_id=20240524145637001)
+1. Editorial Board Member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
+1. Editorial Board Member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
 1. TPC Member: [IEEE IPCCC 2020,2021,2022,2023,2024](https://ipccc.org/)
 1. TPC Member: [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/committees/technical-program-committee)
 1. TPC Member: [IEEE Globecom 2024](https://globecom2024.ieee-globecom.org/committees/technical-program-committee)
@@ -80,21 +89,22 @@ Acadamic Services
 1. TPC Member: [21st Annual International Conference on Privacy, Security, and Trust(PST2024)](https://pstnet.ca/)
 1. TPC Member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. TPC Member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
-1. Editorial Board Member: [Journal of Computer Science Research](https://ojs.bilpublishing.com/index.php/jcsr/about/editorialTeam)
-1. Editorial Board Member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
 1. Journal Reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 1. Journal Reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
 1. Journal Reviewer: [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot)
 1. Journal Reviewer: [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860)
 1. Journal Reviewer: [Journal of Cloud Computing](https://journalofcloudcomputing.springeropen.com/)
 1. Journal Reviewer: [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security)
-1. Journal Reviewer: [Cyber Security](https://cybersecurity.springeropen.com/)
+1. Journal Reviewer: [The Journal of Supercomputing](https://link.springer.com/journal/11227)
 1. Journal Reviewer: [China Communications](http://www.cic-chinacommunications.cn/EN/volumn/home.shtml)
 1. Journal Reviewer: [Netinfo Security](http://netinfo-security.org/CE.htm)
 1. Journal Reviewer: [High Confidence Computing](https://www2.cloud.editorialmanager.com/hccom/default2.aspx)
 1. Journal Reviewer: [Signal, Image and Video Processing](https://link.springer.com/journal/11760)
 1. Journal Reviewer: [Applied Sciences](https://www.mdpi.com/journal/applsci)
 1. Journal Reviewer: [Cluster Computing](https://link.springer.com/journal/10586)
+1. Journal Reviewer: [Sensors](https://www.mdpi.com/journal/sensors/special_issues/cyber_ai)
+
+
 
 
 Co-supervised Students
