@@ -7,8 +7,10 @@ author_profile: true
 Published Standards (国家/行业/团体标准)
 ======
 
-1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](https://std.samr.gov.cn/gb/search/gbDetailed?id=C1A814733AD87A48E05397BE0A0A1C8D)
 1. GB/T 43207-2023 *"Information security technology—Guidelines of design for information system cryptography application"* [《信息安全技术 信息系统密码应用设计指南》](https://std.samr.gov.cn//gb/search/gbDetailed?id=053404E3EF2C8F91E06397BE0A0A9209)
+1. GB/T 15843.2-2024 *"Cybersecurity technology—Entity authentication—Part 2: Mechanisms using authenticated encryption"* [《网络安全技术 实体鉴别 第2部分：采用鉴别式加密的机制》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF6E194E06397BE0A0AA0A9)
+1. GB/T 18238.3-2024 *"Cybersecurity technology—Hash-functions—Part 3: Dedicated hash-functions"* [《网络安全技术 杂凑函数 第3部分：专门设计的杂凑函数》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
 1. GM/T 0113-2021 *"Fast online identity authentication protocol"* [《在线快捷身份鉴别协议》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
 1. GM/T 0116-2021 *"Testing and evaluation process guide for information system cryptography application"* [《信息系统密码应用测评过程指南》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
