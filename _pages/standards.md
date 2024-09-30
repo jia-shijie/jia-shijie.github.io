@@ -30,7 +30,7 @@ Published Standards (团体标准)
 
 Published Whitepapers (密码测评/密码应用相关指导文件)
 ======
-1. [《商用密码应用安全性评估FAQ》（第三版）2023年10月》](https://www.cacrnet.org.cn/site/content/1404.html)*"FAQ of commercial cryptography application security evaluation"*
+1. [《商用密码应用安全性评估FAQ》（第三版）2023年10月](https://www.cacrnet.org.cn/site/content/1404.html)*"FAQ of commercial cryptography application security evaluation"*
 1. [《商用密码应用安全性评估量化评估规则》2023年7月](https://www.cacrnet.org.cn/site/content/1361.html)*"Quantitative evaluation rules for commercial cryptography application security evaluation"* 
 1. [《商用密码应用安全性评估报告模板（2023版）2023年1月》](https://www.cacrnet.org.cn/site/content/1278.html)*"Report template of commercial cryptography application security evaluation (2023 version)"*
 1. [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)*"High-risk determination guide for information system cryptography application"*
