@@ -4,26 +4,29 @@ title: "Standards"
 author_profile: true
 ---
 
-Published Standards (国家/行业/团体标准)
+Published Standards (国家标准)
 ======
-
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](https://std.samr.gov.cn/gb/search/gbDetailed?id=C1A814733AD87A48E05397BE0A0A1C8D)
 1. GB/T 43207-2023 *"Information security technology—Guidelines of design for information system cryptography application"* [《信息安全技术 信息系统密码应用设计指南》](https://std.samr.gov.cn//gb/search/gbDetailed?id=053404E3EF2C8F91E06397BE0A0A9209)
 1. GB/T 15843.2-2024 *"Cybersecurity technology—Entity authentication—Part 2: Mechanisms using authenticated encryption"* [《网络安全技术 实体鉴别 第2部分：采用鉴别式加密的机制》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF6E194E06397BE0A0AA0A9)
+1. GB/T 18238.1-2024 *"Cybersecurity technology—Hash-functions—Part 1: General"* [《网络安全技术 杂凑函数 第1部分：总则》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF5E194E06397BE0A0AA0A9)
 1. GB/T 18238.3-2024 *"Cybersecurity technology—Hash-functions—Part 3: Dedicated hash-functions"* [《网络安全技术 杂凑函数 第3部分：专门设计的杂凑函数》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
+
+Published Standards (密码行业标准)
+======
 1. GM/T 0100-2020 *"Cryptographic application technical requirements for manually confirmed signing"* [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)
 1. GM/T 0113-2021 *"Fast online identity authentication protocol"* [《在线快捷身份鉴别协议》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
 1. GM/T 0116-2021 *"Testing and evaluation process guide for information system cryptography application"* [《信息系统密码应用测评过程指南》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
 1. GM/T 0127-2023 *"Mobile terminal cryptographic module application interface specification"* [《移动终端密码模块应用接口规范》](https://www.oscca.gov.cn/sca/xwdt/2023-12/06/content_1061146.shtml)
 1. GM/T 0132-2023 *"Implementation guide for information system cryptography application"* [《信息系统密码应用实施指南》](https://www.oscca.gov.cn/sca/xwdt/2023-12/06/content_1061146.shtml)
+
+Published Standards (团体标准)
+======
 1. T/EMCG 004.1-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 1: Key-encrypted local protection"* [《移动智能终端密码模块安全检测要求-第1部分：密钥加密本地保护密码模块检测》]()
 1. T/EMCG 004.2-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 2: Key-encrypted protection on server side"* [《移动智能终端密码模块安全检测要求-第2部分：密钥加密服务端保护密码模块检测》]()
 1. T/EMCG 004.3-2021 *"Security test requirements for cryptographic modules in mobile smart terminal-Part 3: Key protection based on multi-party computation"* [《移动智能终端密码模块安全检测要求-第3部分：密钥多端协同计算保护密码模块检测》]()
 
-
-
-
-Published Whitepapers (指导文件)
+Published Whitepapers (密码测评/密码应用相关指导文件)
 ======
 1. *"FAQ of commercial cryptography application security evaluation"* [《商用密码应用安全性评估FAQ》（第三版）2023年10月》](https://www.cacrnet.org.cn/site/content/1404.html)
 1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》2023年7月](https://www.cacrnet.org.cn/site/content/1361.html)
