@@ -33,7 +33,7 @@ Research & Teaching Experience
 
 Recent News
 ======
-
+- &#9728; [11/2024] 3rd “Financial Cryptography Cup” National Cryptographic Technology Contest (1st place). 
 - &#9728; [10/2023] Our papers are accepted by Inscrypt 2023 and IEEE Transactions on Circuits and Systems I: Regular Papers. 
 - &#9728; [04/2023] Our paper "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications" is accepted by ESORICS 2023 (CCF-B). JWTKey is the first cryptographic API misuse detector for JWT Applications.
 - &#9728; [12/2022] Our Cryptographic API misuse detection work (Team Name: CryptoGeek) win 2nd place in the 2nd “Financial Cryptography Cup” National Cryptographic Technology Contest. [Announcement](https://www.fincryptography.pbcdci.cn/news/2022%E5%B9%B4%E2%80%9C%E9%87%91%E8%9E%8D%E5%AF%86%E7%A0%81%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E5%AF%86%E7%A0%81%E5%BA%94%E7%94%A8%E5%92%8C%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%91%8A.html) 
@@ -51,7 +51,7 @@ See [Full publications](/full-publications/).
 Honors & Awards 
 ======
 
-1. 3nd “Financial Cryptography Cup” National Cryptographic Technology Contest (1st place), 2024.  
+1. 3rd “Financial Cryptography Cup” National Cryptographic Technology Contest (1st place), 2024.  
 [2024年第三届“金融密码杯”全国密码应用和技术创新大赛-创新赛团体特等奖](https://fincryptography.cn/#/)
 1. 2nd “Financial Cryptography Cup” National Cryptographic Technology Contest (2nd place, 1st co-winner), 2022.  
 [2022年第二届“金融密码杯”全国密码应用和技术创新大赛-创新赛团体二等奖](https://www.fincryptography.pbcdci.cn/news/2022%E5%B9%B4%E2%80%9C%E9%87%91%E8%9E%8D%E5%AF%86%E7%A0%81%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E5%AF%86%E7%A0%81%E5%BA%94%E7%94%A8%E5%92%8C%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%91%8A.html)
@@ -127,6 +127,8 @@ Co-supervised Students
 1. Jiaqi Tian (Master, graduated in 2024)
 1. Xiangxin Guo (Master candidate)
 1. Guanzheng Li (Master candidate)
+1. Zupei Nie (Master candidate)
+1. Ziyue Fan (Master candidate)
 
 
 
