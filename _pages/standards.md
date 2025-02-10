@@ -21,6 +21,7 @@ Published Standards (密码行业标准)
 *"Testing and evaluation process guide for information system cryptography application"* 
 1. GM/T 0127-2023 [《移动终端密码模块应用接口规范》](https://www.oscca.gov.cn/sca/xwdt/2023-12/06/content_1061146.shtml)*"Mobile terminal cryptographic module application interface specification"*
 1. GM/T 0132-2023 [《信息系统密码应用实施指南》](https://www.oscca.gov.cn/sca/xwdt/2023-12/06/content_1061146.shtml)*"Implementation guide for information system cryptography application"* 
+1. GM/Y 5006-2025 [《信息系统密钥生命周期选取研究》]()*"Guidance for cryptoperiod selection in information systems"*
 
 Published Standards (团体标准)
 ======
@@ -35,7 +36,6 @@ Published Whitepapers (密码测评/密码应用相关指导文件)
 1. [《商用密码应用安全性评估报告模板（2023版）2023年1月》](https://www.cacrnet.org.cn/site/content/1278.html)*"Report template of commercial cryptography application security evaluation (2023 version)"*
 1. [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)*"High-risk determination guide for information system cryptography application"*
 1. [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)*“Guide for cryptography application and security evaluation of government information system”*
-1. [研究报告《信息系统密钥生命周期选取指南》]()*"Guidance for cryptoperiod selection in information systems"*
 1. [研究报告《密码模块边界划分准则研究》]()*"Research on boundary division criteria of cryptographic module"*
 
 
