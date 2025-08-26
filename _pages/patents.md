@@ -44,7 +44,3 @@ Authorized Patents（已授权专利）
 
 Pending Patents （处于审查状态的专利）
 ======
-1. [一种基于CPOR模型的云数据位置公开验证方法及系统](http://epub.cnipa.gov.cn/Index)    
-专利号：ZL202010529956.6；发明人排序:3/9； 申请日：2020年6月11日.
-1. [一种使用SD卡基于国产密码算法的可信启动方法及系统](http://epub.cnipa.gov.cn/Index)      
-专利号：ZL202110441966.9；发明人排序:4/7； 申请日：2021年4月23日.

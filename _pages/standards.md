@@ -15,13 +15,14 @@ Published Standards (国家标准)
 
 Published Standards (密码行业标准)
 ======
-1. GM/T 0100-2020 [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/viewfile/20210627120440023807.html)*"Cryptographic application technical requirements for manually confirmed signing"* 
-1. GM/T 0113-2021 [《在线快捷身份鉴别协议》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)*"Fast online identity authentication protocol"* 
-1. GM/T 0116-2021 [《信息系统密码应用测评过程指南》](http://www.oscca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml)
+1. GM/T 0100-2020 [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/bzlb.html)*"Cryptographic application technical requirements for manually confirmed signing"* 
+1. GM/T 0113-2021 [《在线快捷身份鉴别协议》](http://www.gmbz.org.cn/main/bzlb.html)*"Fast online identity authentication protocol"* 
+1. GM/T 0116-2021 [《信息系统密码应用测评过程指南》](http://www.gmbz.org.cn/main/bzlb.html)
 *"Testing and evaluation process guide for information system cryptography application"* 
-1. GM/T 0127-2023 [《移动终端密码模块应用接口规范》](https://www.oscca.gov.cn/sca/xwdt/2023-12/06/content_1061146.shtml)*"Mobile terminal cryptographic module application interface specification"*
-1. GM/T 0132-2023 [《信息系统密码应用实施指南》](https://www.oscca.gov.cn/sca/xwdt/2023-12/06/content_1061146.shtml)*"Implementation guide for information system cryptography application"* 
-1. GM/Y 5006-2025 [《信息系统密钥生命周期选取研究》]()*"Guidance for cryptoperiod selection in information systems"*
+1. GM/T 0127-2023 [《移动终端密码模块应用接口规范》](http://www.gmbz.org.cn/main/bzlb.html)*"Mobile terminal cryptographic module application interface specification"*
+1. GM/T 0132-2023 [《信息系统密码应用实施指南》](http://www.gmbz.org.cn/main/bzlb.html)*"Implementation guide for information system cryptography application"* 
+1. GM/T 0133-2024 [《关键信息基础设施密码应用要求》](http://www.gmbz.org.cn/main/bzlb.html)*"Requirements for critical information infrastrueture cryptography application"* 
+1. GM/Y 5006-2024 [《信息系统密钥生命周期选取研究》](http://www.gmbz.org.cn/main/bzlb.html)*"Guidance for cryptoperiod selection in information systems"*
 
 Published Standards (团体标准)
 ======
@@ -42,9 +43,9 @@ Published Whitepapers (密码测评/密码应用相关指导文件)
 Developing Standards(在研国家/行业标准)
 ======
 1. 密码行业标准《商用密码应用安全性评估机构能力要求和评估规范》
-1. 密码行业标准《关键信息基础设施密码应用要求》
-1. 密码行业标准《密码算法白盒化测评规范》
+1. 密码行业标准《基于SM2密码算法的协同签名技术规范》
 1. 密码行业标准《IPSec/SSL VPN应用检测技术要求》
 1. 密码行业标准《云计算平台密码应用要求》
+1. 密码行业标准《云平台密码应用测评要求》
 1. 密码行业标准《云上信息系统密码应用测评要求》
-1. 密码行业标准《基于SM2密码算法的协同签名技术规范》
+1. 密码行业标准《密码算法白盒化测评规范》
