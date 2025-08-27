@@ -7,7 +7,7 @@ author_profile: true
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN) or [DBLP](https://dblp.uni-trier.de/pid/51/10138-1.html).
 
 
-
+1. Dongchi Han, Yuan Ma, Tianyu Chen, **Shijie Jia**, Na Lv, Fangyu Zheng, Xianhui Lu. **Revisiting Prediction-Based Min-entropy Estimation: Towards Interpretability, Reliability, and Applicability**. IEEE Transactions on Information Forensics & Security, 2025. **Accepted to appear**
 1. Yajun Teng, Wei Wang, Jingqiang Lin, **Shijie Jia**,  Xiaoqi Jia. **An RPKl Certificate Validator for Formal Correctness**. 20th International Conference on Information Security Practice and Experience (**ISPEC 2025**), Chengdu, China: Noverber 7-9,2025. **Accepted to appear**
 1. Xiangxin Guo, **Shijie Jia***, Jingqiang Lin, Yuan Ma, Fangyu Zheng, Guangzheng Li, Bowen Xu, Yueqiang Cheng, Kailiang Ji. **CryptoPyt: Unraveling Python Cryptographic APIs Misuse With Precise Static Taint Analysis**. 2024 Annual Computer Security Applications Conference (**ACSAC 2024**), Waikiki, Hawaii, USA: December 9-13,2024. [PDF](https://ieeexplore.ieee.org/document/10917739/)
 1. Yuexi Zhang, Bingyu Li, Jingqiang Lin, Linghui Li, Jiaju Bai, **Shijie Jia**, Qianhong Wu. **Gopher: High-Precision and Deep-Dive Detection of Cryptographic API Misuse in the Go Ecosystem**. 2024 ACM Conference on Computer and Communications Security **(ACM CCS 2024)**, Salt Lake City, USA: October 14-18. [PDF](https://dl.acm.org/doi/10.1145/3658644.3690276) 
