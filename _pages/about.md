@@ -125,10 +125,11 @@ Co-supervised Students
 1. Bowen Xu (Ph.D., graduated in 2024)
 1. Mingyu Wang (Ph.D., graduated in 2024)
 1. Jiaqi Tian (Master, graduated in 2024)
-1. Xiangxin Guo (Master candidate)
-1. Guanzheng Li (Master candidate)
-1. Zupei Nie (Master candidate)
+1. Xiangxin Guo (Master, graduated in 2025)
+1. Guanzheng Li (Ph.D. candidate)
+1. Zupei Nie (Ph.D. candidate)
 1. Ziyue Fan (Master candidate)
+1. Chenxu Zhai (Master candidate)
 
 
 
