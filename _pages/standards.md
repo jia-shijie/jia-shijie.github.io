@@ -6,12 +6,15 @@ author_profile: true
 
 Published Standards (国家标准)
 ======
-1. GB/T 40018-2021 [《信息安全技术 基于多信道的证书申请和应用协议》](https://std.samr.gov.cn/gb/search/gbDetailed?id=C1A814733AD87A48E05397BE0A0A1C8D) *"Information security technology—Certificate request and application protocol based on multiple channels"*
-1. GB/T 43207-2023 [《信息安全技术 信息系统密码应用设计指南》](https://std.samr.gov.cn//gb/search/gbDetailed?id=053404E3EF2C8F91E06397BE0A0A9209)*"Information security technology—Guidelines of design for information system cryptography application"*
-1. GB/T 15843.2-2024 [《网络安全技术 实体鉴别 第2部分：采用鉴别式加密的机制》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF6E194E06397BE0A0AA0A9) *"Cybersecurity technology—Entity authentication—Part 2: Mechanisms using authenticated encryption"*
-1. GB/T 18238.1-2024 [《网络安全技术 杂凑函数 第1部分：总则》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF5E194E06397BE0A0AA0A9)*"Cybersecurity technology—Hash-functions—Part 1: General"*
-1. GB/T 18238.2-2024 [《网络安全技术 杂凑函数 第2部分：采用分组密码的杂凑函数》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF4E194E06397BE0A0AA0A9)*"Cybersecurity technology—Hash-functions—Part 2: Hash-functions using a block cipher"*
-1. GB/T 18238.3-2024 [《网络安全技术 杂凑函数 第3部分：专门设计的杂凑函数》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)*"Cybersecurity technology—Hash-functions—Part 3: Dedicated hash-functions"*
+1. GB/T 40018-2021 [《信息安全技术 基于多信道的证书申请和应用协议》](https://std.samr.gov.cn/gb/search/gbDetailed?id=C1A814733AD87A48E05397BE0A0A1C8D) 
+1. GB/T 43207-2023 [《信息安全技术 信息系统密码应用设计指南》](https://std.samr.gov.cn//gb/search/gbDetailed?id=053404E3EF2C8F91E06397BE0A0A9209)
+1. GB/T 15843.2-2024 [《网络安全技术 实体鉴别 第2部分：采用鉴别式加密的机制》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF6E194E06397BE0A0AA0A9) 
+1. GB/T 18238.1-2024 [《网络安全技术 杂凑函数 第1部分：总则》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF5E194E06397BE0A0AA0A9)
+1. GB/T 18238.2-2024 [《网络安全技术 杂凑函数 第2部分：采用分组密码的杂凑函数》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF4E194E06397BE0A0AA0A9)
+1. GB/T 18238.3-2024 [《网络安全技术 杂凑函数 第3部分：专门设计的杂凑函数》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
+1. GB/T 28455-XXXX [《网络安全技术 引入可信第三方的实体鉴别及接入架构规范》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
+
+
 
 Published Standards (密码行业标准)
 ======
