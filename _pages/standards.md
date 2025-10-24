@@ -18,29 +18,29 @@ Published Standards (国家标准)
 
 Published Standards (密码行业标准)
 ======
-1. GM/T 0100-2020 [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/bzlb.html)*"Cryptographic application technical requirements for manually confirmed signing"* 
-1. GM/T 0113-2021 [《在线快捷身份鉴别协议》](http://www.gmbz.org.cn/main/bzlb.html)*"Fast online identity authentication protocol"* 
+1. GM/T 0100-2020 [《人工确权型数字签名密码应用技术要求》](http://www.gmbz.org.cn/main/bzlb.html)
+1. GM/T 0113-2021 [《在线快捷身份鉴别协议》](http://www.gmbz.org.cn/main/bzlb.html)
 1. GM/T 0116-2021 [《信息系统密码应用测评过程指南》](http://www.gmbz.org.cn/main/bzlb.html)
-*"Testing and evaluation process guide for information system cryptography application"* 
-1. GM/T 0127-2023 [《移动终端密码模块应用接口规范》](http://www.gmbz.org.cn/main/bzlb.html)*"Mobile terminal cryptographic module application interface specification"*
-1. GM/T 0132-2023 [《信息系统密码应用实施指南》](http://www.gmbz.org.cn/main/bzlb.html)*"Implementation guide for information system cryptography application"* 
-1. GM/T 0133-2024 [《关键信息基础设施密码应用要求》](http://www.gmbz.org.cn/main/bzlb.html)*"Requirements for critical information infrastrueture cryptography application"* 
-1. GM/Y 5006-2024 [《信息系统密钥生命周期选取研究》](http://www.gmbz.org.cn/main/bzlb.html)*"Guidance for cryptoperiod selection in information systems"*
+
+1. GM/T 0127-2023 [《移动终端密码模块应用接口规范》](http://www.gmbz.org.cn/main/bzlb.html)
+1. GM/T 0132-2023 [《信息系统密码应用实施指南》](http://www.gmbz.org.cn/main/bzlb.html)
+1. GM/T 0133-2024 [《关键信息基础设施密码应用要求》](http://www.gmbz.org.cn/main/bzlb.html)
+1. GM/Y 5006-2024 [《信息系统密钥生命周期选取研究》](http://www.gmbz.org.cn/main/bzlb.html)*
 
 Published Standards (团体标准)
 ======
-1. T/EMCG 004.1-2021 [《移动智能终端密码模块安全检测要求-第1部分：密钥加密本地保护密码模块检测》]()*"Security test requirements for cryptographic modules in mobile smart terminal-Part 1: Key-encrypted local protection"*
-1. T/EMCG 004.2-2021 [《移动智能终端密码模块安全检测要求-第2部分：密钥加密服务端保护密码模块检测》]()*"Security test requirements for cryptographic modules in mobile smart terminal-Part 2: Key-encrypted protection on server side"* 
-1. T/EMCG 004.3-2021  [《移动智能终端密码模块安全检测要求-第3部分：密钥多端协同计算保护密码模块检测》]()*"Security test requirements for cryptographic modules in mobile smart terminal-Part 3: Key protection based on multi-party computation"*
+1. T/EMCG 004.1-2021 [《移动智能终端密码模块安全检测要求-第1部分：密钥加密本地保护密码模块检测》]()
+1. T/EMCG 004.2-2021 [《移动智能终端密码模块安全检测要求-第2部分：密钥加密服务端保护密码模块检测》]()
+1. T/EMCG 004.3-2021  [《移动智能终端密码模块安全检测要求-第3部分：密钥多端协同计算保护密码模块检测》]()*
 
 Published Whitepapers (密码测评/密码应用相关指导文件)
 ======
-1. [《商用密码应用安全性评估FAQ》（第三版）2023年10月](https://www.cacrnet.org.cn/site/content/1404.html)*"FAQ of commercial cryptography application security evaluation"*
-1. [《商用密码应用安全性评估量化评估规则》2023年7月](https://www.cacrnet.org.cn/site/content/1361.html)*"Quantitative evaluation rules for commercial cryptography application security evaluation"* 
-1. [《商用密码应用安全性评估报告模板（2023版）2023年1月》](https://www.cacrnet.org.cn/site/content/1278.html)*"Report template of commercial cryptography application security evaluation (2023 version)"*
-1. [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)*"High-risk determination guide for information system cryptography application"*
-1. [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)*“Guide for cryptography application and security evaluation of government information system”*
-1. [研究报告《密码模块边界划分准则研究》]()*"Research on boundary division criteria of cryptographic module"*
+1. [《商用密码应用安全性评估FAQ》（第三版）2023年10月](https://www.cacrnet.org.cn/site/content/1404.html)
+1. [《商用密码应用安全性评估量化评估规则》2023年7月](https://www.cacrnet.org.cn/site/content/1361.html)
+1. [《商用密码应用安全性评估报告模板（2023版）2023年1月》](https://www.cacrnet.org.cn/site/content/1278.html)
+1. [《信息系统密码应用高风险判定指引》2021年12月](https://www.cacrnet.org.cn/site/content/1117.html)
+1. [《政务信息系统密码应用与安全性评估工作指南》2020年9月](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
+1. [研究报告《密码模块边界划分准则研究》]()
 
 
 Developing Standards(在研国家/行业标准)
