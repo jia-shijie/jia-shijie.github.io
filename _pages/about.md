@@ -34,14 +34,9 @@ Research & Teaching Experience
 Recent News
 ======
 - &#9728; [11/2024] 3rd “Financial Cryptography Cup” National Cryptographic Technology Contest (1st place). 
-- &#9728; [10/2023] Our papers are accepted by Inscrypt 2023 and IEEE Transactions on Circuits and Systems I: Regular Papers. 
 - &#9728; [04/2023] Our paper "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications" is accepted by ESORICS 2023 (CCF-B). JWTKey is the first cryptographic API misuse detector for JWT Applications.
 - &#9728; [12/2022] Our Cryptographic API misuse detection work (Team Name: CryptoGeek) win 2nd place in the 2nd “Financial Cryptography Cup” National Cryptographic Technology Contest. [Announcement](https://www.fincryptography.pbcdci.cn/news/2022%E5%B9%B4%E2%80%9C%E9%87%91%E8%9E%8D%E5%AF%86%E7%A0%81%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E5%AF%86%E7%A0%81%E5%BA%94%E7%94%A8%E5%92%8C%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%91%8A.html) 
 - &#9728; [10/2022] Our paper "CryptoGo: Automatic Detection of Go Cryptographic API Misuses" is accepted by ACSAC 2022 (CCF-B). CryptoGo is the first cryptographic API misuse detector for Go programs. [PDF](https://dl.acm.org/doi/10.1145/3564625.3567989) 
-- &#9728; [09/2022] I received a general funding project form National Natural Science Foundation of China to support my research on data security protection technology based on solid-state storage characteristics.
-- &#9728; [08/2022] Our paper "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks" is accepted by IEEE TrustCom 2022 (CCF-C). 
-- &#9728; [06/2022] Our paper "Research on Data Security Threats and Protection of Key Technologies in Cloud Environment" is accepted by Netinfo Security (CCF-C-Chinese).
-- &#9728; [03/2022] Our paper "EnclavePoSt: A Practical Proof of Storage-time in Cloud via Intel SGX" is accepted by Security and Communication Networks (SCN 2022, CCF-C).
 - &#9728; [01/2022] Our paper "An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator" is accepted by IEEE ICC 2022 (CCF-C). 
 - &#9728; [12/2021] Our paper "Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme" is accepted by IEEE WCNC 2022 (CCF-C). 
 - &#9728; [07/2021] Our paper "MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer" is accepted by <font color="blue">IEEE TDSC (CCF-A)</font>.
@@ -96,6 +91,7 @@ Acadamic Services
 1. Journal Reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 1. Journal Reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
 1. Journal Reviewer: [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot)
+1. Journal Reviewer: [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
 1. Journal Reviewer: [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860)
 1. Journal Reviewer: [Journal of Cloud Computing](https://journalofcloudcomputing.springeropen.com/)
 1. Journal Reviewer: [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security)
@@ -128,7 +124,7 @@ Co-supervised Students
 1. Xiangxin Guo (Master, graduated in 2025)
 1. Guanzheng Li (Ph.D. candidate)
 1. Zupei Nie (Ph.D. candidate)
-1. Ziyue Fan (Master candidate)
+1. Qingrong Fan (Master candidate)
 1. Chenxu Zhai (Master candidate)
 
 
