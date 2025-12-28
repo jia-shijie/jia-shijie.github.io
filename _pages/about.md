@@ -82,7 +82,7 @@ Acadamic Services
 1. Editorial Board Member: [Region - Computer Science and Information Technology](https://region.enpress-publisher.com/index.php/CSIT/about/editorialTeam)
 1. TPC Member: [IEEE IPCCC 2020,2021,2022,2023,2024,2025](https://ipccc.org/)
 1. TPC Member: [IEEE WCNC 2024,2025,2026](https://wcnc2025.ieee-wcnc.org/)
-1. TPC Member: [IEEE Globecom 2024,2025](https://globecom2025.ieee-globecom.org/committees/technical-program-committee)
+1. TPC Member: [IEEE Globecom 2024,2025,2026](https://globecom2025.ieee-globecom.org/committees/technical-program-committee)
 1. TPC Member: [ACNS Workshop on SCI 2024,2025](https://acns-sci.github.io/)
 1. TPC Member: [Annual International Conference on Privacy, Security, and Trust(PST 2024,2025,2026)](https://pstnet.ca/)
 1. TPC Member: [Global Information Infrastructure and Networking Symposium (GIIS 2025,2026) ](https://2026.giis-conference.org/)
