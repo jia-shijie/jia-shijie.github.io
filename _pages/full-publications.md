@@ -8,6 +8,9 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 
 
 
+
+
+1. Shi Haotian, Siyuan Ma, Yuewu Wang, Lingguang Lei, **Shijie Jia**, Jiwu Jing. **FBRoT: Transforming Flash Memory into Root of Trust for IoT Terminals**. IEEE International Conference on Sensing, Communication, and Networking (SECON), 2026. **Accepted to appear**
 1. Xi Luo, Lihua Yin, Hongyu Yang, Zeyan Liu, Weizhe Chen, **Shijie Jia**, Bo Luo, Hongli Xiang. **SnifferDog: Comprehensively Learning Heterogeneous Features of Network Traffic to Identify Malicious Flows**. IEEE Transactions on Information Forensics & Security, 2025. [PDF](https://ieeexplore.ieee.org/document/11202220)
 1. Xin Liu, Huize Gao, Dan Luo, Lanying Liang, Wei Ye, Likai Jia,**Shijie Jia**, Gang Xu, Xiubo Chen, Yu Gu, Baohua Zhang. **Malicious Node Detection Scheme in WSN Based on Secure Computation of Spatially Parallel Straight-Line Distance**. IEEE Internet of Things Journal, 2025. [PDF](https://ieeexplore.ieee.org/document/11192498)
 1. Dongchi Han, Yuan Ma, Tianyu Chen, **Shijie Jia**, Na Lv, Fangyu Zheng, Xianhui Lu. **Revisiting Prediction-Based Min-Entropy Estimation: Toward Interpretability, Reliability, and Applicability**. IEEE Transactions on Information Forensics & Security, vol. 20, pp. 9641-9656, 2025. [PDF](https://ieeexplore.ieee.org/document/11153604)
