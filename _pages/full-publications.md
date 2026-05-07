@@ -7,7 +7,7 @@ author_profile: true
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN) or [DBLP](https://dblp.uni-trier.de/pid/51/10138-1.html).
 
 
-
+1. Xi Luo, Zecheng Zhang, Lihua Yin, **Shijie Jia**, Runda Huang, Haiyang Zhang. **CryptoBinaryRz : A binary detection framework based on regional centralization dynamic analysis of cryptographic misuse**. Journal of Cyber Security. **Accepted to appear**
 1. Qingfei Zhao, Ruobing Wang, Dingling Xu, Daren Zha, Bowen Ma, Zhichun Wang, **Shijie Jia**, Limin Liu, Xin Wang. **R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**. The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). **Accepted to appear**
 1. Haotian Shi, Siyuan Ma, Yuewu Wang, Lingguang Lei, **Shijie Jia**, Jiwu Jing. **FBRoT: Transforming Flash Memory into Root of Trust for IoT Terminals**. IEEE International Conference on Sensing, Communication, and Networking (SECON), 2026. **Accepted to appear**
 1. Xi Luo, Lihua Yin, Hongyu Yang, Zeyan Liu, Weizhe Chen, **Shijie Jia**, Bo Luo, Hongli Xiang. **SnifferDog: Comprehensively Learning Heterogeneous Features of Network Traffic to Identify Malicious Flows**. IEEE Transactions on Information Forensics & Security, 2025. [PDF](https://ieeexplore.ieee.org/document/11202220)
