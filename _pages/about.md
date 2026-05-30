@@ -9,14 +9,8 @@ redirect_from:
 ---
 
 
-I am an Associate Professor in State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). 
-
-I obtained my Ph.D degree from the University of Chinese Academy of Sciences (UCAS) in 2017. I won Distinguished Paper Award of ACSAC 2017.
-
-My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Privacy
-Protection, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Data Storage Security (e.g., solid state storage and cloud storage), as well as and Information System Security Evaluation. I have published 40+ papers on security venues, such as ACM CCS (17,24), IEEE TDSC (21), ACSAC (16,17,22,24), ESORICS (23) and AsiaCCS (16,19). 
-
-
+I am an Associate Professor in State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences(UCAS) in 2017. I won Distinguished Paper Award of ACSAC 2017. 
+My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Data Storage Security (e.g., solid state storage and cloud storage), as well as and Information System Security Evaluation. I have published 50+ papers on security venues, such as Usenix Security(26), ACM CCS (17,24), IEEE TDSC (21), ACSAC (16,17,22,24), ESORICS (23) and AsiaCCS (16,19). 
 
 
 Education
@@ -33,13 +27,12 @@ Research & Teaching Experience
 
 Recent News
 ======
-- &#9728; [11/2024] 3rd “Financial Cryptography Cup” National Cryptographic Technology Contest (1st place). 
-- &#9728; [04/2023] Our paper "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications" is accepted by ESORICS 2023 (CCF-B). JWTKey is the first cryptographic API misuse detector for JWT Applications.
-- &#9728; [12/2022] Our Cryptographic API misuse detection work (Team Name: CryptoGeek) win 2nd place in the 2nd “Financial Cryptography Cup” National Cryptographic Technology Contest. [Announcement](https://www.fincryptography.pbcdci.cn/news/2022%E5%B9%B4%E2%80%9C%E9%87%91%E8%9E%8D%E5%AF%86%E7%A0%81%E6%9D%AF%E2%80%9D%E5%85%A8%E5%9B%BD%E5%AF%86%E7%A0%81%E5%BA%94%E7%94%A8%E5%92%8C%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%91%8A.html) 
-- &#9728; [10/2022] Our paper "CryptoGo: Automatic Detection of Go Cryptographic API Misuses" is accepted by ACSAC 2022 (CCF-B). CryptoGo is the first cryptographic API misuse detector for Go programs. [PDF](https://dl.acm.org/doi/10.1145/3564625.3567989) 
-- &#9728; [01/2022] Our paper "An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator" is accepted by IEEE ICC 2022 (CCF-C). 
-- &#9728; [12/2021] Our paper "Approach then connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme" is accepted by IEEE WCNC 2022 (CCF-C). 
-- &#9728; [07/2021] Our paper "MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer" is accepted by <font color="blue">IEEE TDSC (CCF-A)</font>.
+
+- &#9728; [2026/05] Our paper " JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript" is accepted by USENIX Security 2026 (CCF-A). 
+- &#9728; [2024/12] Our paper "CryptoPyt: Unraveling Python Cryptographic APIs Misuse With Precise Static Taint Analysis" is accepted by ACSA4 2022 (CCF-B). 
+- &#9728; [2023/04] Our paper "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications" is accepted by ESORICS 2023 (CCF-B). JWTKey is the first cryptographic API misuse detector for JWT Applications.
+- &#9728; [2022/10] Our paper "CryptoGo: Automatic Detection of Go Cryptographic API Misuses" is accepted by ACSAC 2022 (CCF-B). CryptoGo is the first cryptographic API misuse detector for Go programs. 
+- &#9728; [2021/07] Our paper "MDEFTL: Incorporating Multi-Snapshot Plausible Deniability into Flash Translation Layer" is accepted by IEEE TDSC (CCF-A).
 
 See [Full publications](/full-publications/).
 
@@ -59,6 +52,11 @@ Honors & Awards
 
 Fundings & Projects
 ======
+
+1. National Cyber Security-National Science and Technology Major Project , "Research on Automated Detection Technologies and Tool Development for Cryptographic Application Security Deficiencies in Critical Information Infrastructure (No.2026ZD1500202)".   
+[2026/05-2029/04，国家网络空间安全国家科技重大专项，关基密码应用缺陷自动化检测技术研究及工具研制，课题负责人，主持]()
+1. Science and Technology Plan Project of Xizang Autonomous Region, "Research on Automated Detection Technologies and Applications for Commercial Cryptographic Application Defects(No.XZ202502JD0008)".   
+[2025/12-2028/11，西藏自治区科技计划项目，国产密码应用缺陷自动化检测技术及应用研究，课题负责人，主持]()
 1. National Natural Science Foundation of China, "Research on data security protection technology based on solid-state storage characteristics (Grant No.62272457)".   
 [2023/01-2026/12，国家自然科学基金面上项目，基于固态存储特性的数据安全保护技术研究，项目批准号62272457，主持]()
 1. National Natural Science Foundation of China, "Research on technologies of preventing ransomware attacks based on solid state storage devices (Grant No. 61802395)".   
@@ -66,9 +64,9 @@ Fundings & Projects
 1. China Ministry of industry and information technology Project, "Industrial Internet identity resolution service capability test and verification platform project".  
 [2019/06-2022/06，工业和信息化部，2019年工业互联网创新发展工程-工业互联网标识解析服务能力测试验证平台项目，主持]()
 1. Imported Outstanding Young Talents of IIE-CAS.   
-[2018/05-2021/12，中科院信工所引进青年人才项目，主持]()
+[2018/05-2021/12，中国科学院信息工程研究所引进青年人才项目，主持]()
 1. National Key R&D Plan of China, "Research on Key Technologies of information transmission".    
-[2018/02-2021/01，国家重点研发计划子课题，信息传输关键技术研究，主持]()
+[2018/02-2021/01，国家科技重点研发计划子课题，信息传输关键技术研究，主持]()
 1. National Major key projects of China, "Construction of process knowledge base, data mining and visualization platform (Grant No. 2018ZX09201011)".    
 [2018/01-2020/12，国家科技重大专项子任务，中药先进制药与信息化技术融合示范研究，主持]()
 
@@ -121,9 +119,13 @@ Co-supervised Students
 1. Jiaqi Tian (Master, graduated in 2024)
 1. Xiangxin Guo (Master, graduated in 2025)
 1. Guanzheng Li (Ph.D. candidate)
+1. Bokun Wang (Ph.D. candidate)
+1. Wentao Zhou (Ph.D. candidate)
 1. Zupei Nie (Ph.D. candidate)
+1. Shuai Liang (Ph.D. candidate)
 1. Qingrong Fan (Master candidate)
-1. Chenxu Zhai (Master candidate)
+1. Yujie Wang (Master candidate)
+1. Weiqi Su (Master candidate)
 
 
 
