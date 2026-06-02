@@ -84,6 +84,7 @@ Acadamic Services
 1. TPC Member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. TPC Member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
 1. Journal Reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+1. Journal Reviewer: [IEEE Transactions on Software Engineering](https://dl.acm.org/journal/isof)
 1. Journal Reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
 1. Journal Reviewer: [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot)
 1. Journal Reviewer: [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
