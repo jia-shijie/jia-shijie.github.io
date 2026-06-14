@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Associate Professor in State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences(UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Information System Security Evaluation, and Data Storage Security. I have published 50+ papers on security venues, such as Usenix Security(26), ACM CCS (17,24), IEEE TDSC (21), IEEE TDSC (25*2), ACSAC (16,17,22,24), ESORICS (23) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017. 
+I am an Associate Professor in State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS). I obtained my Ph.D degree from the University of Chinese Academy of Sciences(UCAS) in 2017. My research interests lie in the general area of <font color="light blue"> Applied Cryptography, Network and System Security</font>, particularly in Cryptographic Misuse Detection, Information System Security Evaluation, and Data Storage Security. I have published 50+ papers on security venues, such as Usenix Security(26), ACM CCS (17,24), IEEE TDSC (21), IEEE TIFS (25*2), ACSAC (16,17,22,24), ESORICS (23,26) and AsiaCCS (16,19). I won Distinguished Paper Award of ACSAC 2017. 
 
 
 Education
@@ -27,7 +27,8 @@ Research & Teaching Experience
 Recent News
 ======
 
-- &#9728; [2026/05] Our paper " JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript" is accepted by USENIX Security 2026 (CCF-A). 
+- &#9728; [2026/06] Our paper "API-GRPO: Multi-Task Fine-Tuning with Group Relative Policy Optimization for Security-Sensitive API Misuse Analysis" is accepted by ESORICS 2026 (CCF-B). 
+- &#9728; [2026/05] Our paper "JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript" is accepted by USENIX Security 2026 (CCF-A). 
 - &#9728; [2024/12] Our paper "CryptoPyt: Unraveling Python Cryptographic APIs Misuse With Precise Static Taint Analysis" is accepted by ACSA4 2022 (CCF-B). 
 - &#9728; [2023/04] Our paper "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications" is accepted by ESORICS 2023 (CCF-B). JWTKey is the first cryptographic API misuse detector for JWT Applications.
 - &#9728; [2022/10] Our paper "CryptoGo: Automatic Detection of Go Cryptographic API Misuses" is accepted by ACSAC 2022 (CCF-B). CryptoGo is the first cryptographic API misuse detector for Go programs. 
