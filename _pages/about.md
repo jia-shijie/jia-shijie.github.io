@@ -125,6 +125,7 @@ Co-supervised Students
 1. Zupei Nie (Ph.D. candidate)
 1. Shuai Liang (Ph.D. candidate)
 1. Qingrong Fan (Master candidate)
+1. Chenxu Zhai (Master candidate)
 1. Yujie Wang (Master candidate)
 1. Weiqi Su (Master candidate)
 
