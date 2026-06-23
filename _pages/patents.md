@@ -4,7 +4,6 @@ title: "Patents"
 author_profile: true
 ---
 
-Authorized Patents（已授权专利）
 ======
 1. [一种具有环境控制的USB加密存储系统及方法](http://epub.cnipa.gov.cn/Index)     
 专利号：ZL201310652031.0；发明人排序:6/13； 授权公告日：2017年1月11日.
@@ -40,7 +39,3 @@ Authorized Patents（已授权专利）
 专利号：ZL202110156382.7；发明人排序:3/5； 授权公告日：2024年10月22日. 
 1. [一种使用SD卡基于国产密码算法的可信启动方法及系统](http://epub.cnipa.gov.cn/Index)    
 专利号：ZL202110441966.9；发明人排序:4/7； 授权公告日：2025年7月29日. 
-
-
-Pending Patents （处于审查状态的专利）
-======
