@@ -12,7 +12,7 @@ Published Standards (国家标准)
 1. GB/T 18238.1-2024 [《网络安全技术 杂凑函数 第1部分：总则》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF5E194E06397BE0A0AA0A9)
 1. GB/T 18238.2-2024 [《网络安全技术 杂凑函数 第2部分：采用分组密码的杂凑函数》](https://std.samr.gov.cn//gb/search/gbDetailed?id=234D7936ABF4E194E06397BE0A0AA0A9)
 1. GB/T 18238.3-2024 [《网络安全技术 杂凑函数 第3部分：专门设计的杂凑函数》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
-1. GB/T 28455-XXXX [《网络安全技术 引入可信第三方的实体鉴别及接入架构规范》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
+1. GB/T 28455-2026 [《网络安全技术 引入可信第三方的实体鉴别及接入架构规范》](https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936ABF7E194E06397BE0A0AA0A9)
 
 
 
