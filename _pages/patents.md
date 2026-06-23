@@ -4,7 +4,7 @@ title: "Patents"
 author_profile: true
 ---
 
-======
+
 1. [一种具有环境控制的USB加密存储系统及方法](http://epub.cnipa.gov.cn/Index)     
 专利号：ZL201310652031.0；发明人排序:6/13； 授权公告日：2017年1月11日.
 1. [一种基于闪存产生满熵随机数的方法和装置](http://epub.cnipa.gov.cn/Index)     
