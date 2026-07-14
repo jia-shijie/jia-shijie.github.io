@@ -75,7 +75,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 
 Book
 ======
-1. **[Book]** Luning Xia, **Shijie Jia**, Bo Chen, **Solid State Storage: Principle, architecture and data security**, China Machine Press, 2017. [ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216)  
-夏鲁宁,**贾世杰**,陈波. **固态存储：原理、架构与数据安全**，机械工业出版社，2017. 
-1. **[Book]** Wei Huo, Qiquan Guo, Yuan Ma, **Commercial cryptography application and security assessment**, Publishing House of Electronics Industry, 2020. [ISBN 978-7-121-35063-4](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=55847)  
-**商用密码应用与安全性评估**，电子工业出版社，2020. 
+1. **[专著]** 夏鲁宁,**贾世杰**,陈波. **固态存储：原理、架构与数据安全**，机械工业出版社，2017，[ISBN 9787111580010](http://www.hzcourse.com/web/refbook/detail/7235/216) . 
+1. **[专著]** 霍炜, 郭启全，马原. **商用密码应用与安全性评估**，电子工业出版社，2020，[ISBN 978-7-121-35063-4](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=55847)，**编审人员**. 
+1. **[专著]** 全国专业技术人员新职业培训教程，**密码工程技术人员-密码工程基础知识**，中国人事出版社，2025，[ISBN 9787512919860]()，**编写人员**. 
+1. **[专著]** 全国专业技术人员新职业培训教程，**密码工程技术人员（初级）——密码产品与系统检测评估管理**，中国人事出版社，2025，[ISBN 9787512921054]()，**编写人员**. 
