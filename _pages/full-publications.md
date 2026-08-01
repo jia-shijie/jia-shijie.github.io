@@ -7,7 +7,7 @@ author_profile: true
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=4M16_LMAAAAJ&hl=zh-CN) or [DBLP](https://dblp.uni-trier.de/pid/51/10138-1.html).
 
 
-
+1. Wentao Zhou, **Shijie Jia***, Yingjiao Niu, Daren Zha. **Fusing Code Semantics and Dynamic Execution Traces: A Multi-Modal Framework for Detecting Cryptographic API Misuse**. The 28th International Conference onInformation and Communications Security (**ICICS 2026**). **Accepted to appear**
 1. Wentao Zhou, **Shijie Jia***, Bowen Xu, Yingjiao Niu, Daren Zha. **API-GRPO: Multi-Task Fine-Tuning with Group Relative Policy Optimization for Security-Sensitive API Misuse Analysis**. The 31st European Symposium on Research in Computer Security (**ESORICS 2026**). **Accepted to appear**
 1. **Shijie Jia**, Bowen Xu, Yuan Ma, Yingjiao Niu, Limin Liu, Daren Zha, Jingqiang Lin. **JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript**. The 35th USENIX Security Symposium (USENIX Security), 2026. **Accepted to appear**
 1. Xi Luo, Zecheng Zhang, Lihua Yin, **Shijie Jia**, Runda Huang, Haiyang Zhang. **CryptoBinaryRz : A binary detection framework based on regional centralization dynamic analysis of cryptographic misuse**. Journal of Cyber Security. **Accepted to appear**
