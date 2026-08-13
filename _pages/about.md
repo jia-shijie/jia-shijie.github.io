@@ -84,7 +84,7 @@ Acadamic Services
 1. TPC Member: [ACNS Workshop on SCI 2024-2025](https://acns-sci.github.io/)
 1. TPC Member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. TPC Member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
-1. TPC Member: [Int'l Workshop on Secure Crypto Implementations and Engineering (SCIEN 2026)](https://scien-conf.github.io/)
+1. TPC Member: [7th International Workshop on Secure Cryptographic Implementations and Engineering (SCIEN 2026)](https://scien-conf.github.io/)
 1. Journal Reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 1. Journal Reviewer: [IEEE Transactions on Software Engineering](https://dl.acm.org/journal/isof)
 1. Journal Reviewer: [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
