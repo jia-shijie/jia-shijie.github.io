@@ -81,7 +81,7 @@ Acadamic Services
 1. TPC Member: [IEEE Globecom 2024-2026](https://globecom2025.ieee-globecom.org/committees/technical-program-committee)
 1. TPC Member: [Annual International Conference on Privacy, Security, and Trust(PST 2024-2026)](https://pstnet.ca/)
 1. TPC Member: [Global Information Infrastructure and Networking Symposium (GIIS 2025-2026) ](https://2026.giis-conference.org/)
-1. TPC Member: [Workshop on Secure Cryptographic Implementations and Engineering 2024-2026](https://scien-conf.github.io/)
+1. TPC Member: [Workshop on Secure Cryptographic Implementations and Engineering (SCIE 2024-2026)](https://scien-conf.github.io/)
 1. TPC Member: [CRSIS 2021](https://www.crisis-2021.com/program-committee/)
 1. TPC Member: [EAI AC3 2022](https://ac3-conference.eai-conferences.org/2022/technical-program-committee/)
 1. Journal Reviewer: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
