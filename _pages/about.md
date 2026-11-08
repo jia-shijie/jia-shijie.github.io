@@ -76,6 +76,7 @@ Acadamic Services
 ======
 1. Youth Editorial Board Members: [Cybersecurity](https://cybersecurity.springeropen.com/about/editorial-board)
 1. Youth Editorial Board Members: [Journal of Cyber Security](http://jcs.iie.ac.cn/xxaqxb/ch/first_menu.aspx?parent_id=20240524145637001)
+1. TPC Member: [SecureComm 2027](https://securecomm.eai-conferences.org/2027/)
 1. TPC Member: [IEEE IPCCC 2020-2026](https://ipccc.org/)
 1. TPC Member: [IEEE WCNC 2024-2026](https://wcnc2025.ieee-wcnc.org/)
 1. TPC Member: [IEEE Globecom 2024-2026](https://globecom2025.ieee-globecom.org/committees/technical-program-committee)
