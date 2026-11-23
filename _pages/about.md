@@ -124,7 +124,6 @@ Co-supervised Students
 1. Bokun Wang (Ph.D. candidate)
 1. Wentao Zhou (Ph.D. candidate)
 1. Zupei Nie (Ph.D. candidate)
-1. Shuai Liang (Ph.D. candidate)
 1. Qingrong Fan (Master candidate)
 1. Chenxu Zhai (Master candidate)
 1. Yujie Wang (Master candidate)
