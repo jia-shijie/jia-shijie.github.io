@@ -14,7 +14,9 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 -->‌
 
 
-1. Chang Yang, Shuhao Hu, Yang Long, Lei Wang, Yingjiao Niu, **Shijie Jia***. **FWhen Consistency Misleads: Evidence-Anchored Selective Answering for Black-Box RAG**. The 10th 2026 International Conference on Progress in Informatics and Computing (PIC2026). **Accepted to appear**
+1. Chang Yang, Shuhao Hu, Yang Long, Lei Wang, Yingjiao Niu, **Shijie Jia**. **FWhen Consistency Misleads: Evidence-Anchored Selective Answering for Black-Box RAG**. The 10th 2026 International Conference on Progress in Informatics and Computing (PIC2026). **Accepted to appear**
+1. Donghai Zhang, Xiaona Zhang, Shengnan Li, **Shijie Jia**, Fan Bai. **Research on the large-scale application of post-quantum cryptography and the adaptation of cryptographic evaluation**. Cyber Security and Data Governance,2026,45(10):19-28.[PDF](https://www.pcachina.com/article/6000179844)
+张东海，张晓娜，李胜男,**贾世杰**，白帆. 抗量子密码规模化应用与密码评估适配研究［J］.网络安全与数据治理，2026，45（10）：19-28.
 1. Wentao Zhou, **Shijie Jia***, Yingjiao Niu, Daren Zha. **Fusing Code Semantics and Dynamic Execution Traces: A Multi-Modal Framework for Detecting Cryptographic API Misuse**. The 28th International Conference onInformation and Communications Security (ICICS 2026). [PDF](https://link.springer.com/chapter/10.1007/978-981-92-6843-6_21)
 1. Wentao Zhou, **Shijie Jia***, Bowen Xu, Yingjiao Niu, Daren Zha. **API-GRPO: Multi-Task Fine-Tuning with Group Relative Policy Optimization for Security-Sensitive API Misuse Analysis**. The 31st European Symposium on Research in Computer Security (ESORICS 2026).  [PDF](https://link.springer.com/chapter/10.1007/978-3-032-38702-8_21)
 1. **Shijie Jia**, Bowen Xu, Yuan Ma, Yingjiao Niu, Limin Liu, Daren Zha, Jingqiang Lin. **JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript**. The 35th USENIX Security Symposium (USENIX Security 2026). [PDF](https://www.usenix.org/conference/usenixsecurity26/presentation/jia-shijie)
